@@ -1,11 +1,2 @@
-xvideos.com##.btn-clear.head__btn--join-free.head__btn--connection.head__btn
-xvideos.com##.btn-clear.head__btn--join.head__btn
-xvideos.com##.btn-clear.head__btn--login.head__btn--connection.head__btn > span
-xvideos.com##.premium-preview.activity-event
-xvideos.com##.premium-results-line
-xvideos.com##.width-full-body.head__menu-line
-xvideos.com##.remove-ads
-redtube.com###age_disclaimer
-
-
+[test]
 ||xvideos.com^
