@@ -681,6 +681,9 @@ www.xvideos.com##.premium-results-line
 www.xvideos.com##.width-full-body.head__menu-line
 www.xvideos.com##.remove-ads
 www.redtube.com###age_disclaimer
+www.xvideos.com##div#video-right.mobile-hide.exo-ad-ins-container.is-filled.ad-support-desktop
+www.xvideos.com##div#page.video-page > div.remove-ads
+www.xvideos.com##div#ad-footer.exo-ad-ins-container.is-filled.ad-support-desktop
 
 # Title: Test
 # blacklist
