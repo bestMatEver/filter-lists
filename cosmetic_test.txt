@@ -685,5 +685,9 @@ www.xvideos.com##div#video-right.mobile-hide.exo-ad-ins-container.is-filled.ad-s
 www.xvideos.com##div#page.video-page > div.remove-ads
 www.xvideos.com##div#ad-footer.exo-ad-ins-container.is-filled.ad-support-desktop
 
+xvideos.com##[id$="video-right"]
+xvideos.com###video-sponsor-links
+redtube.com##.adsbytrafficjunky
+
 # Title: Test
 # blacklist
