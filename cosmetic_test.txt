@@ -673,21 +673,27 @@
 0.0.0.0 gengtoto018.com
 0.0.0.0 fastcdn.org
 
-www.xvideos.com##.btn-clear.head__btn--join-free.head__btn--connection.head__btn
-www.xvideos.com##.btn-clear.head__btn--join.head__btn
-www.xvideos.com##.btn-clear.head__btn--login.head__btn--connection.head__btn > span
-www.xvideos.com##.premium-preview.activity-event
-www.xvideos.com##.premium-results-line
-www.xvideos.com##.width-full-body.head__menu-line
-www.xvideos.com##.remove-ads
-www.redtube.com###age_disclaimer
-www.xvideos.com##div#video-right.mobile-hide.exo-ad-ins-container.is-filled.ad-support-desktop
-www.xvideos.com##div#page.video-page > div.remove-ads
-www.xvideos.com##div#ad-footer.exo-ad-ins-container.is-filled.ad-support-desktop
+#TESTEANDO
+0.0.0.0 *.checkappexec.microsoft.com
+0.0.0.0 *.prod.do.dsp.mp.microsoft.com
+0.0.0.0 o.pki.goog
 
-xvideos.com##[id$="video-right"]
-xvideos.com###video-sponsor-links
-redtube.com##.adsbytrafficjunky
-
-# Title: Test
-# blacklist
+0.0.0.0 presentation-hkg1.turn.com
+0.0.0.0 *turn.com
+0.0.0.0 verifi.podscribe.com
+0.0.0.0 arttrk.com
+0.0.0.0 adexp.liftoff.io
+0.0.0.0 a.adsrvr.org
+0.0.0.0 ad.adsrvr.org
+0.0.0.0 enduser.adsrvr.org
+0.0.0.0 csi.gstatic.com
+0.0.0.0 audio-akp-spotify-com.akamaized.net
+0.0.0.0 video-akpcw-cdn-spotify-com.akamaized.net
+0.0.0.0 noticeboard.samsungvisioncloud.com
+0.0.0.0 vision.googleapis.com
+0.0.0.0 infinitedata-pa.googleapis.com
+0.0.0.0 tos-prod-getdata.samsung-dict.com
+0.0.0.0 tos-stg-getdata.samsung-dict.com
+0.0.0.0 tos-dev-getdata.samsung-dict.com
+0.0.0.0 curbengh.github.io
+0.0.0.0 gameswhitelisted.googleapis.com
