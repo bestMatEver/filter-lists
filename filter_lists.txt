@@ -675,6 +675,7 @@
 0.0.0.0 o.pki.goog
 0.0.0.0 supl.google.com    # Android, posible info push notifications y GPS, la ostia del tracking xD
 0.0.0.0 ogads-pa.googleapis.com
+0.0.0.0 dns.msftncsi.com
 
 0.0.0.0 presentation-hkg1.turn.com
 0.0.0.0 turn.com
