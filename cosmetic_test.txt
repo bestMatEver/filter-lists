@@ -697,3 +697,5 @@
 0.0.0.0 tos-dev-getdata.samsung-dict.com
 0.0.0.0 curbengh.github.io
 0.0.0.0 gameswhitelisted.googleapis.com
+
+### SOLO TESTEANDO HASHES Y DIFS
