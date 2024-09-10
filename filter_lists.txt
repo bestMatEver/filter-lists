@@ -697,8 +697,49 @@
 0.0.0.0 curbengh.github.io
 0.0.0.0 gameswhitelisted.googleapis.com
 
-# No bloquear estas porquerias
+##########################
+### TESTEANDO 20240910 ###
+0.0.0.0 analytics.s3.amazonaws.com
+0.0.0.0 advice-ads.s3.amazonaws.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 click.googleanalytics.com
+0.0.0.0 identify.hotjar.com
+0.0.0.0 mouseflow.com
+0.0.0.0 freshmarketer.com
+0.0.0.0 fwtracks.freshmarketer.com
+0.0.0.0 app.getsentry.com
+0.0.0.0 log.pinterest.com
+0.0.0.0 analytics.pinterest.com
+0.0.0.0 log.byteoversea.com
+0.0.0.0 udcm.yahoo.com
+0.0.0.0 udc.yahoo.com
+0.0.0.0 geo.yahoo.com
+0.0.0.0 analytics.query.yahoo.com
+0.0.0.0 log.fc.yahoo.com
+0.0.0.0 offerwall.yandex.net
+0.0.0.0 iot-logser.realme.com
+0.0.0.0 logservice.hicloud.com
+0.0.0.0 metrics2.data.hicloud.com
+0.0.0.0 logbak.hicloud.com
+0.0.0.0 grs.hicloud.com
+0.0.0.0 logservice1.hicloud.com
+0.0.0.0 click.oneplus.cn
+0.0.0.0 smetrics.samsung.com
+0.0.0.0 analytics-api.samsunghealthcn.com
+0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 weather-analytics-events.apple.com
+0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 api-adservices.apple.com
+### TESTEANDO 20240910 ###
+##########################
+
+####################################
+### No bloquear estas porquerias ###
 # 0.0.0.0 s3.amazonaws.com
 # 0.0.0.0 apresolve.spotify.com
 # 0.0.0.0 clienttoken.spotify.com
 # 0.0.0.0 ahsapi.flybuys.com.au
+### No bloquear estas porquerias ###
+####################################
