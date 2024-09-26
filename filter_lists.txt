@@ -1367,7 +1367,6 @@
 0.0.0.0 licensing.md.mp.microsoft.com
 0.0.0.0 live.rads.msn.com
 0.0.0.0 location-inference-westus.cloudapp.net
-0.0.0.0 login.live.com
 0.0.0.0 login.live.com.nsatc.net
 0.0.0.0 ls2web.redmond.corp.microsoft.com
 0.0.0.0 m221.absolute.com
