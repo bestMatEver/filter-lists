@@ -299,7 +299,7 @@
 #0.0.0.0 yandex.ru
 #0.0.0.0 i2.au.reastatic.net			#Imagenes y contenido en realestate app
 #0.0.0.0 mexa.realestate.com.au
-0.0.0.0 lexa.realestate.com.au			#no issues android// issues en redmi
+#0.0.0.0 lexa.realestate.com.au			#no issues android// issues en redmi
 #0.0.0.0 school-service.realestate.com.au
 #0.0.0.0 companion.mobile.realestate.com.au	# NECESARIA OARA LA APP
 #0.0.0.0 saved-search-api.realestate.com.au
@@ -551,7 +551,7 @@
 0.0.0.0 dls.di.atlas.samsung.com		#TESTEANDO ANDROID
 0.0.0.0 android.apis.google.com			#TESTEANDO ANDROID
 0.0.0.0	gnpfesdk-pa.googleapis.com		#TESTEANDO ANDROID NI IDEA DE DONDE PS GOOGLE AGAIN
-0.0.0.0	connectivitycheck.gstatic.com		#TESTEANDO ANDROID NI IDEA DE DONDE PS GOOGLE AGAIN
+#0.0.0.0	connectivitycheck.gstatic.com		#TESTEANDO ANDROID NI IDEA DE DONDE PS GOOGLE AGAIN
 0.0.0.0	crashlyticsreports-pa.googleapis.com	#TESTEANDO ANDROID GOOGLE AGAIN
 0.0.0.0	api.mop.apps.samsung.com		#TESTEANDO ANDROID SAMSUNG FREE SPY
 0.0.0.0	cp.c-ij.com				#TESTEANDO ANDROID CANNON PRINTER TESTEANDO ANDROID
@@ -1924,3 +1924,24 @@
 0.0.0.0 cmp.inmobi.com
 ####################################
 ####################################
+0.0.0.0 alive.github.com
+0.0.0.0 alt2-mtalk.google.com
+0.0.0.0 androidpay-users-pa.googleapis.com
+0.0.0.0 au-odc.samsungapps.com
+0.0.0.0 brand-messenger.app.khoros.com
+0.0.0.0 d127n5jiwb3j0b.cloudfront.net
+0.0.0.0 khoros.com
+0.0.0.0 live.github.com
+0.0.0.0 mafeedback.cloudapp.net
+0.0.0.0 pay-users-pa.googleapis.com
+0.0.0.0 payments-graph.facebook.com
+0.0.0.0 play.googleapis.com
+0.0.0.0 poll.gras.samsungdm.com
+0.0.0.0 rum-ingest.au0.signalfx.com
+0.0.0.0 safelyremove.com
+0.0.0.0 voilatile-pa.googleapis.com
+0.0.0.0 vpn.vat.ec
+0.0.0.0 widget.realestateview.com.au
+
+
+
