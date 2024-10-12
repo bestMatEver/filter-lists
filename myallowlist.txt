@@ -1,0 +1,37 @@
+#!#ALLOWLIST COMENTARIOS
+
+colesproductimages.azureedge.net	#requerido de coles app. CNAME{productimages.coles.com.au=>colesproductimages.azureedge.net}
+oauth2.googleapis.com			#requerido para GMAIL
+www.googleapis.com			#requerido para GMAIL en thunderbird, no necesario en K9
+cdn.lacuerda.net			#requerido pagina de acordes guitarra 
+wildcard.scene7.com.edgesuite.net	#requerido BigW imagenes CNAME{s7ap1.scene7.com=>wildcard.scene7.com.edgesuite.net}
+maps.googleapis.com			#requerido Maps,realestate(inside)
+d3orhvfyxudxxq.cloudfront.net		#requerido Kmart CNAME{images.ctfassets.net=>d3orhvfyxudxxq.cloudfront.net}
+d3nu7fmpe1x8pv.cloudfront.net		#requerido realestate imagenes CNAME{i2.au.reastatic.net=>d3nu7fmpe1x8pv.cloudfront.net}
+mapsmobilesdks-pa.googleapis.com	#requerido realestate mapas en seccion de busqueda
+play-fe.googleapis.com			#requerido playstore
+api.oviahealth.com			#requerido app de periodosM (listas:1Hosts_master_Xtra)
+bci-share.s3.amazonaws.com		#BCI PDFs
+
+##BORRAR DEL FILE mate and ddg
+companion.mobile.realestate.com.au	#requerido realestate (mate list)
+connectivitycheck.gstatic.com		#requerido celu xiaomi nicole (samsung ok) (mate list)
+lexa.realestate.com.au			#requerido realestate (mate list)
+services.realestate.com.au		#requerido realestate (mate list)
+www.realestate.com.au			#requerido realestate (mate list)
+redditstatic.com			#requerido reddit (en duckduckgo list)
+##
+
+ei-ph.rdtcdn.com			#requerido rtube
+ei.rdtcdn.com				#requerido rtube
+ev-ph.rdtcdn.com			#requerido rtube
+encrypted-tbn0.gstatic.com		#requerido imagenes de google
+
+
+mozilla.cloudflare-dns.com		#requerido al usar filtrado https de firefox (lista:www.github.developerdan.com_hosts_lists_tracking-aggressive-extended.txt)
+myshopify.com				#requerido varios shops
+objects.githubusercontent.com		#requerido github
+login.live.com				#requerido login hotmail
+alicdn.com				#aliexpress
+
+#!#NO USAR easylist/easyprivacy de este link https://easylist-downloads.adblockplus.org/easyprivacy.txt
