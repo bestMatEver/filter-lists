@@ -27,6 +27,9 @@ ei.rdtcdn.com				#requerido rtube
 ev-ph.rdtcdn.com			#requerido rtube
 encrypted-tbn0.gstatic.com		#requerido imagenes de google
 
+1701336841.rsc.cdn77.org		#WOM_PDFs
+dduhxx0oznf63.cloudfront.net		#COLES_PDFs
+publish-p16597-e60686.adobeaemcloud.com		#BIGW_PDFs
 
 mozilla.cloudflare-dns.com		#requerido al usar filtrado https de firefox (lista:www.github.developerdan.com_hosts_lists_tracking-aggressive-extended.txt)
 myshopify.com				#requerido varios shops
