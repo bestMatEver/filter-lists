@@ -38,3 +38,19 @@ login.live.com				#requerido login hotmail
 alicdn.com				#aliexpress
 
 #!#NO USAR easylist/easyprivacy de este link https://easylist-downloads.adblockplus.org/easyprivacy.txt
+
+ac.cnstrc.com
+addons.mozilla.org
+apigee.net
+bixby-client.aibixby.com
+cdn2.bci.cl        #bci
+cdn3.bci.cl        #bci
+cloudflare-dns.com        #no esta funcionando bien mozilla.cloudflare-dns.com, asi que comende a usar este otro instead
+cnstrc.com
+ebay.com        #no se que lista tiene ebay.com
+ir.ebaystatic.com
+login.microsoftonline.com
+prd-use2-user.aibixby.com
+spyware.neocities.org
+trafficmanager.net
+weather-server.allawnos.com
