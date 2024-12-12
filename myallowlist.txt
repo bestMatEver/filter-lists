@@ -40,7 +40,10 @@ alicdn.com				#aliexpress
 #!#NO USAR easylist/easyprivacy de este link https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 ac.cnstrc.com
-addons.mozilla.org
+addons.mozilla.org        #en futuro mantener bloqueado, pero usar en dnsoverhttps
+oauth.accounts.firefox.com        #en futuro mantener bloqueado, pero usar en dnsoverhttps
+cdn.accounts.firefox.com        #en futuro mantener bloqueado, pero usar en dnsoverhttps
+graphql.accounts.firefox.com        #en futuro mantener bloqueado, pero usar en dnsoverhttps
 apigee.net
 bixby-client.aibixby.com
 cdn2.bci.cl        #bci
