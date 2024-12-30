@@ -48,8 +48,9 @@ apigee.net
 bixby-client.aibixby.com
 cdn2.bci.cl        #bci
 cdn3.bci.cl        #bci
-cloudflare-dns.com        #no esta funcionando bien mozilla.cloudflare-dns.com, asi que comende a usar este otro instead
-cnstrc.com
+mozilla.cloudflare-dns.com        #quite del whitelist cloudflare-dns.com, entonces, debemos mantener siempre este dominio como ALLOWED
+#cloudflare-dns.com        #no esta funcionando bien mozilla.cloudflare-dns.com, asi que comende a usar este otro instead
+cnstrc.com        #Requerido kmart
 ebay.com        #no se que lista tiene ebay.com
 ir.ebaystatic.com
 login.microsoftonline.com
@@ -57,3 +58,20 @@ prd-use2-user.aibixby.com
 spyware.neocities.org
 trafficmanager.net
 weather-server.allawnos.com
+auth.bigw.com.au
+coles.com.au
+syd-efz.ms-acdc.office.com
+ooc-g2.tm-4.office.com
+www.tm.ak.prd.aadg.trafficmanager.net
+check.ddos-guard.net
+api.thelott.com
+thelott.com
+external-content.duckduckgo.com
+www.tm.ak.prd.aadg.akadns.net
+star-azurefd-prod.trafficmanager.net
+api2.sec-tunnel.com
+startpage.com
+firefox.settings.services.mozilla.com
+firefox-settings-attachments.cdn.mozilla.net
+support.mozilla.org
+us-west1.prod.sumo.prod.webservices.mozgcp.net
