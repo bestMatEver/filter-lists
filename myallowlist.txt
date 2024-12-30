@@ -74,4 +74,5 @@ startpage.com
 firefox.settings.services.mozilla.com
 firefox-settings-attachments.cdn.mozilla.net
 support.mozilla.org
+auth0app.com.pivot.prod.auth0edge.com
 us-west1.prod.sumo.prod.webservices.mozgcp.net
