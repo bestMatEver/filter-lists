@@ -45,7 +45,9 @@ oauth.accounts.firefox.com        #en futuro mantener bloqueado, pero usar en dn
 cdn.accounts.firefox.com        #en futuro mantener bloqueado, pero usar en dnsoverhttps
 graphql.accounts.firefox.com        #en futuro mantener bloqueado, pero usar en dnsoverhttps
 apigee.net
+aibixby.com
 bixby-client.aibixby.com
+prd-use2-user.aibixby.com
 cdn2.bci.cl        #bci
 cdn3.bci.cl        #bci
 mozilla.cloudflare-dns.com        #quite del whitelist cloudflare-dns.com, entonces, debemos mantener siempre este dominio como ALLOWED
@@ -54,7 +56,6 @@ cnstrc.com        #Requerido kmart
 ebay.com        #no se que lista tiene ebay.com
 ir.ebaystatic.com
 login.microsoftonline.com
-prd-use2-user.aibixby.com
 spyware.neocities.org
 trafficmanager.net
 weather-server.allawnos.com
