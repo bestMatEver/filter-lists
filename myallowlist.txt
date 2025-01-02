@@ -76,3 +76,12 @@ firefox.settings.services.mozilla.com
 firefox-settings-attachments.cdn.mozilla.net
 support.mozilla.org
 us-west1.prod.sumo.prod.webservices.mozgcp.net
+aliexpress.com
+api.pinterest.com
+auth.bigw.com.au
+clients4.google.com
+kmartau.mo.cloudinary.net
+mozilla.cloudflare-dns.com
+rutracker.org
+star-mini.c10r.facebook.com
+www.aliexpress.com
