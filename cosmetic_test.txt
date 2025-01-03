@@ -1,701 +1,505 @@
-####### ANDROID PORQUERIAS ###########
-0.0.0.0 gos-api.gos-gsp.io	#Game optimize service??
-0.0.0.0 afx.adfixus.com
-0.0.0.0 incoming.telemetry.mozilla.org
-0.0.0.0 pt.ispot.tv
-0.0.0.0 cdn.liftoff-creatives.io
-0.0.0.0 assets.applovin.com
-0.0.0.0 alt5-mtalk.google.com
-0.0.0.0 prod.statics.indeed.com
-0.0.0.0 mtalk.google.com
-0.0.0.0 o4505273229705216.ingest.sentry.io
-0.0.0.0 api.revenuecat.com
-0.0.0.0 ingest.sentry.io
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 rr4---sn-v2u0n-ntqy.gvt1.com
-0.0.0.0 rr5---sn-v2u0n-ntqy.gvt1.com
-0.0.0.0 *.gvt1.com
-0.0.0.0 gvt1.com
-0.0.0.0 beacons.gcp.gvt2.com
-0.0.0.0 beacons4.gvt2.com
-0.0.0.0 beacons5.gvt3.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 location.services.mozilla.com
-0.0.0.0 safebrowsing.googleapis.com
-0.0.0.0 graph.facebook.com
-0.0.0.0 nebula-cdn.kampyle.com
-0.0.0.0 dpm.demdex.net
-0.0.0.0 edge.adobedc.net
-0.0.0.0 nebula-cdn.kampyle.com
-0.0.0.0 crg15a3-push.oraclersys.com
-0.0.0.0 o1058658.ingest.sentry.io
-0.0.0.0 api2.branch.io
-0.0.0.0 mobile.launchdarkly.com
-0.0.0.0 clientstream.launchdarkly.com
-0.0.0.0 api.cooladata.com
-0.0.0.0 ahsapi.flybuys.com.au
-0.0.0.0 colesonline.sc.omtrdc.net
-0.0.0.0 cdn.branch.io
-0.0.0.0 webservice.salefinder.com.au
-0.0.0.0 colessupermarketspty.tt.omtrdc.net
-0.0.0.0 mboxedge36.tt.omtrdc.net
-0.0.0.0 app-measurement.com
-0.0.0.0 beacons.gvt2.com
-0.0.0.0 q.stripe
-0.0.0.0 firebase-settings.crashlytics.com
-0.0.0.0 firebaselogging-pa.googleapis.com
-0.0.0.0 deviceintegritytokens-pa.googleapis.com	#TESTING PC || android ok2block
-0.0.0.0 match.prod.bidr.io
-0.0.0.0 config.safedk.com
-0.0.0.0 sb.scorecardresearch.com
-0.0.0.0 api.safedk.com
-0.0.0.0 sdk.tresensa.com
-0.0.0.0 adexp.liftoff.io
-0.0.0.0 games.tresensa.com
-0.0.0.0 ms.applovin.com
-0.0.0.0 adservice.google.com
-0.0.0.0 d.applovin.com
-0.0.0.0 inapps.appsflyer.com
-0.0.0.0 vas.samsungapps.com
-0.0.0.0 web.facebook.com
-0.0.0.0 telemetry.sdk.inmobi.com
-0.0.0.0 d.applovin.com
-0.0.0.0 d.applvn.com
-0.0.0.0 cdn2.inner-active.mobi
-0.0.0.0 cdn2.inner-active.mobi.com
-0.0.0.0 ads.api.vungle.com
-0.0.0.0 telemetry.sdk.inmobi.com
-0.0.0.0 ms4.applovin.com
-0.0.0.0 prod-mediate-events.applovin.com
-0.0.0.0 gameswhitelisted.googleapis.com
-0.0.0.0 rt.applovin.com
-0.0.0.0 z.moatads.com
-0.0.0.0 adx.ads.vungle.com
-0.0.0.0 c-eus.w.inmobi.com
-0.0.0.0 config.inmobi.com
-0.0.0.0 supply.inmobicdn.net
-0.0.0.0 vast.doubleverify.com
-0.0.0.0 et-eus.w.inmobi.com
-0.0.0.0 i.l-new.inmobicdn.net
-0.0.0.0 i.l.inmobicdn.net
-0.0.0.0 cdn-f.adsmoloco.com
-0.0.0.0 tr-asia.adsmoloco.com
-0.0.0.0 adsmoloco.com
-0.0.0.0 launches.appsflyer.com
-0.0.0.0 soundbrenner.myshopify.com
-0.0.0.0 myshopify.com
-0.0.0.0 api.mixpanel.com
-0.0.0.0 decide.mixpanel.com
-0.0.0.0 www.soundbrennercloud.com
-0.0.0.0 soundbrennercloud.com
-0.0.0.0 decide.mixpanel.com
-0.0.0.0 suggestqueries.google.com
-0.0.0.0 resources.digital-cloud.medallia.com
-0.0.0.0 digital-cloud.medallia.com
-0.0.0.0 medallia.com
-0.0.0.0 api.cooladata.com
-0.0.0.0 cdn.optimizely.com
-0.0.0.0 optimizely.com
-# REAL ESTATE
-0.0.0.0 match.adsrvr.org
-0.0.0.0 live.primis.tech
-0.0.0.0 um.simpli.fi
-0.0.0.0 mookie1.com
-0.0.0.0 t.mookie1.com
-0.0.0.0 odr.mookie1.com
-0.0.0.0 dsum-sec.casalemedia.com
-0.0.0.0 ssum-sec.casalemedia.com
-0.0.0.0 cs.krushmedia.com
-0.0.0.0 pre-usermatch.targeting.unrulymedia.com
-0.0.0.0 t.adx.opera.com
-0.0.0.0 farm.plista.com
-0.0.0.0 bh.contextweb.com
-0.0.0.0 p.rfihub.com
-0.0.0.0 mobile-collector.newrelic.com
-0.0.0.0 image2.pubmatic.com
-0.0.0.0 simage2.pubmatic.com
-0.0.0.0 image8.pubmatic.com
-0.0.0.0 ads.pubmatic.com
-0.0.0.0 pixel.tapad.com
-0.0.0.0 static.adsafeprotected.com
-0.0.0.0 mobile.adsafeprotected.com
-0.0.0.0 pixel.adsafeprotected.com
-0.0.0.0 dt.adsafeprotected.com
-0.0.0.0 fw.adsafeprotected.com
-0.0.0.0 sync.serverbid.com
-0.0.0.0 cm.mgid.com
-0.0.0.0 jadserve.postrelease.com
-0.0.0.0 bpi.rtactivate.com
-0.0.0.0 ipredictive.com
-0.0.0.0 sync.ipredictive.com
-0.0.0.0 cms.quantserve.com
-0.0.0.0 sdk.iad-03.braze.com
-0.0.0.0 sync.mathtag.com
-0.0.0.0 pixel.mathtag.com
-0.0.0.0 s.yimg.com
-0.0.0.0 match.sharethrough.com
-0.0.0.0 apnx-match.dotomi.com
-0.0.0.0 cdn.js7k.com
-0.0.0.0 graph.facebook.com
-0.0.0.0 d.adroll.com
-0.0.0.0 i.liadm.com
-0.0.0.0 s.amazon-adsystem.com
-0.0.0.0 aax-eu.amazon-adsystem.com
-0.0.0.0 amazon-adsystem.com
-0.0.0.0 cm-supply-web.gammaplatform.com
-0.0.0.0 id.rlcdn.com
-0.0.0.0 tags.tiqcdn.com
-0.0.0.0 px.ads.linkedin.com
-0.0.0.0 a.tribalfusion.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 tpc.googlesyndication.com
-0.0.0.0 ade.googlesyndication.com
-0.0.0.0 ad.turn.com
-0.0.0.0 ssp-sync.criteo.com
-0.0.0.0 dis.criteo.com
-0.0.0.0 sync.aralego.com
-0.0.0.0 crb.kargo.com
-0.0.0.0 ads.yieldmo.com
-0.0.0.0 beap-bc.yahoo.com
-0.0.0.0 pr-bh.ybp.yahoo.com
-0.0.0.0 pn.ybp.yahoo.com
-0.0.0.0 ups.analytics.yahoo.com
-0.0.0.0 ib.beintoo.com
-0.0.0.0 collect-ap-southeast-2.tealiumiq.com
-0.0.0.0 visitor-service.tealiumiq.com
-0.0.0.0 collect.tealiumiq.com
-0.0.0.0 sync.intentiq.com
-0.0.0.0 sync.smartadserver.com
-0.0.0.0 ssbsync.smartadserver.com
-0.0.0.0 rtb-csync.smartadserver.com
-0.0.0.0 t.wayfair.com
-0.0.0.0 mb.moatads.com
-0.0.0.0 px.moatads.com
-0.0.0.0 z.moatads.com
-0.0.0.0 www.googletagservices.com
-0.0.0.0 idpix.media6degrees.com
-0.0.0.0 firebaseremoteconfig.googleapis.com
-0.0.0.0 visitor.omnitagjs.com
-0.0.0.0 mid.rkdms.com
-0.0.0.0 ssc-cms.33across.com
-0.0.0.0 ib.adnxs.com
-0.0.0.0 sin3-ib.adnxs.com
-0.0.0.0 prebid.adnxs.com
-0.0.0.0 cdn.adnxs.com
-0.0.0.0 acdn.adnxs.com
-0.0.0.0 m.adnxs.com
-0.0.0.0 prebid-a.rubiconproject.com
-0.0.0.0 pixel.rubiconproject.com
-0.0.0.0 token.rubiconproject.com
-0.0.0.0 prebid-server.rubiconproject.com
-0.0.0.0 micro.rubiconproject.com
-0.0.0.0 beacon-nf.rubiconproject.com
-0.0.0.0 eb2.3lift.com
-0.0.0.0 ce.lijit.com
-0.0.0.0 ap.lijit.com
-0.0.0.0 s.adtelligent.com
-0.0.0.0 de.tynt.com
-0.0.0.0 pixel-sync.sitescout.com
-0.0.0.0 ads.stickyadstv.com
-0.0.0.0 js-sec.indexww.com
-0.0.0.0 cdn.indexww.com
-0.0.0.0 indexww.com
-0.0.0.0 capi.connatix.com
-0.0.0.0 cdn.optimizely.com
-0.0.0.0 zuhcczeou8ih9wavjbl7et9x8tl9n1723071840.uaid.vtwenty.com
-0.0.0.0 *.uaid.vtwenty.com
-0.0.0.0 uaid.vtwenty.com
-0.0.0.0 *.vtwenty.com
-0.0.0.0 vtwenty.com
-0.0.0.0 secure-dcr.vtwenty.com
-0.0.0.0 gat.tpmn.io
-0.0.0.0 sync.1rx.io
-0.0.0.0 cksync.yahoo.co.jp
-0.0.0.0 contextual.media.net
-0.0.0.0 hbx.media.net
-0.0.0.0 pm.w55c.net
-0.0.0.0 t.a3cloud.net
-0.0.0.0 cdn.krxd.net
-0.0.0.0 beacon.krxd.net
-0.0.0.0 sync-tm.everesttech.net
-0.0.0.0 x.bidswitch.net
-0.0.0.0 *.bidswitch.net
-0.0.0.0 bidswitch.net
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 cm.g.doubleclick.net
-0.0.0.0 c1.adform.net
-0.0.0.0 cm3.adform.net
-0.0.0.0 s0.2mdn.net
-0.0.0.0 r3---sn-ntqe6n76.c.2mdn.net
-0.0.0.0 gcdn.2mdn.net
-0.0.0.0 s.ad.smaato.net
-0.0.0.0 au-script.dotmetrics.net
-0.0.0.0 dpm.demdex.net
-0.0.0.0 u.openx.net
-0.0.0.0 us-u.openx.net
-0.0.0.0 wt.rqtrk.eu
-0.0.0.0 sync.extend.tv
-#by Hand
-0.0.0.0 cdn.jsdelivery.net
-0.0.0.0 sync.search.spotxchange.com
-0.0.0.0 core.iprom.net
-0.0.0.0 pippio.com
-0.0.0.0 loopme.me
-0.0.0.0 *.loopme.me
-0.0.0.0 csync.loopme.me
-0.0.0.0 ad.yieldlab.net
-0.0.0.0 gw-iad-bid.ymmobi.com
-0.0.0.0 cm.adgrx.com
-0.0.0.0 tags.rd.linksynergy.com
-0.0.0.0 match.deepintent.com
-0.0.0.0 dsp-ap.eskimi.com
-0.0.0.0 aa.agkn.com
-0.0.0.0 dsum.casalemedia.com
-0.0.0.0 sync-dsp.ad-m.asia
-0.0.0.0 idsync.rlcdn.com
-0.0.0.0 pubmatic-match.dotomi.com
-0.0.0.0 dmp.brand-display.com
-0.0.0.0 ipac.ctnsnet.com
-0.0.0.0 cm.ctnsnet.com
-0.0.0.0 gocm.c.appier.net
-0.0.0.0 prebid.a-mo.net
-0.0.0.0 cs.nex8.net
-0.0.0.0 sync.adotmob.com
-0.0.0.0 creativecdn.com
-0.0.0.0 trace.mediago.io
-0.0.0.0 simage4.pubmatic.com
-0.0.0.0 image4.pubmatic.com
-0.0.0.0 s.company-target.com
-0.0.0.0 stags.bluekai.com
-0.0.0.0 secure.adnxs.com
-0.0.0.0 sync.crwdcntrl.net
-0.0.0.0 dps.jp.cinarra.com
-0.0.0.0 rtb.openx.net
-0.0.0.0 1f2e7.v.fwmrm.net
-0.0.0.0 fwmrm.net
-0.0.0.0 eus.rubiconproject.com
-0.0.0.0 rubiconproject.com
-0.0.0.0 b1sync.zemanta.com
-0.0.0.0 c.bing.com
-0.0.0.0 content.aimatch.com
-0.0.0.0 uipglob.semasio.net
-0.0.0.0 cm.ambientdsp.com
-0.0.0.0 px.ads.linkedin.com
-0.0.0.0 5d1227d03d4503e601633de884ce348f.safeframe.googlesyndication.com
-0.0.0.0 c121bbb99efdaf42bf48860dbeed14fe.safeframe.googlesyndication.com
-0.0.0.0 *.safeframe.googlesyndication.com
-0.0.0.0 safeframe.googlesyndication.com
-0.0.0.0 googlesyndication.com
-0.0.0.0 sync.srv.stackadapt.com
-0.0.0.0 tg.socdm.com
-0.0.0.0 cr-p3.ladsp.com
-0.0.0.0 jp-u.openx.net
-0.0.0.0 image6.pubmatic.com
-0.0.0.0 pubmatic.com
-0.0.0.0 reporting.cdndex.io
-
-#0.0.0.0 signalrs2-relayhub-prod-as01-1.service.signalr.net #REQUERIDO PARA ENLACE MOVIL
-#0.0.0.0 clients4.google.com #FALLAN VARIAS APPS
-#0.0.0.0 event
-#0.0.0.0 yandex.ru
-#0.0.0.0 i2.au.reastatic.net			#Imagenes y contenido en realestate app
-#0.0.0.0 mexa.realestate.com.au
-0.0.0.0 lexa.realestate.com.au			#no issues android// issues en redmi
-#0.0.0.0 school-service.realestate.com.au
-#0.0.0.0 companion.mobile.realestate.com.au	# NECESARIA OARA LA APP
-#0.0.0.0 saved-search-api.realestate.com.au
-#0.0.0.0 collections-api.realestate.com.au
-#0.0.0.0 sasinator.realestate.com.au
-#0.0.0.0 smetrics.realestate.com.au
-#0.0.0.0 analytics.realestate.com.au
-#0.0.0.0 services.realestate.com.au
-#0.0.0.0 communication-settings.realestate.com.au
-#0.0.0.0 www.realestate.com.au
-
-# THE LOTT
-0.0.0.0 metrics.thelott.com
-0.0.0.0 tlc-mkt-prod.campaign.adobe.com
-0.0.0.0 launches.appsflyer.com
-0.0.0.0 gcdsdk.appsflyer.com
-0.0.0.0 api.pushio.com
-0.0.0.0 loyaltypacificptyltd.sc.omtrdc.net
-0.0.0.0 omtrdc.net
-0.0.0.0 fpe324-push.oraclersys.com
-0.0.0.0 api.onesignal.com
-0.0.0.0 sessions.bugsnag.com
-0.0.0.0 ads.inmobi.com
-0.0.0.0 tpc.googlesyndication.com
-0.0.0.0 www.googletagservices.com
-0.0.0.0 googletagservices.com
-0.0.0.0 cm.g.doubleclick.net
-0.0.0.0 dsum-sec.casalemedia.com #TripView
-0.0.0.0 ib.adnxs.com
-0.0.0.0 s0.2mdn.net #TripView
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 ade.googlesyndication.com
-0.0.0.0 us-u.openx.net
-0.0.0.0 sync.teads.tv
-0.0.0.0 pagead2.googleadservices.com
-# AQUI EMPIEZA EVENT CINEMAS APP
-0.0.0.0 remote-data.urbanairship.com
-0.0.0.0 device-api.urbanairship.com
-0.0.0.0 js.braintreegateway.com
-0.0.0.0 mpsnare.iesnare.com
-0.0.0.0 js-agent.newrelic.com
-0.0.0.0 bam.nr-data.net
-0.0.0.0 combine.urbanairship.com
-0.0.0.0 remote-data.urbanairship.com
-0.0.0.0 m.stripe.com
-0.0.0.0 healthengine.tt.omtrdc.net
-0.0.0.0 sdk.iad-01.braze.com
-0.0.0.0 braze.com
-0.0.0.0 nt6p7sy7uv4qamjv3en2rti63idy61722740551.uaid.vtwenty.com
-0.0.0.0 *.uaid.vtwenty.com
-0.0.0.0 secure-sdk.vtwenty.com
-0.0.0.0 healthengine.sc.omtrdc.net
-0.0.0.0 connect.facebook.net
-0.0.0.0 bat.bing.com
-0.0.0.0 static.hotjar.com
-0.0.0.0 hotjar.com
-0.0.0.0 o150405.ingest.sentry.io
-0.0.0.0 *.ingest.sentry.io
-0.0.0.0 cm.everesttech.net
-0.0.0.0 *.everesttech.net
-0.0.0.0 script.hotjar.com
-0.0.0.0 app.link
-0.0.0.0 stats.g.doubleclick.net
-0.0.0.0 analytics.google.com
-0.0.0.0 smetrics.healthengine.com.au
-0.0.0.0 secure-dcr.imrworldwide.com
-0.0.0.0 secure-gg.imrworldwide.com
-#ABCNEWS
-0.0.0.0 edgescape.abc.net.au
-0.0.0.0 socialize.au1.gigya.com
-0.0.0.0 collector.abc.net.au
-0.0.0.0 www.google-analytics.com
-0.0.0.0 aurora.abc.net.au
-#LINKEDIN
-0.0.0.0 radar.cedexis.com
-0.0.0.0 s2s.singular.net
-0.0.0.0 i2-gjrjgksctgwtgwpiemzrucabhjaxqm.init.cedexis-radar.net
-0.0.0.0 cedexis-radar.net
-0.0.0.0 init.cedexis-radar.net
-0.0.0.0 *.i2-gjrjgksctgwtgwpiemzrucabhjaxqm.init.cedexis-radar.net
-0.0.0.0 rpt.cedexis.com
-0.0.0.0 pop-lor1-lx.www.linkedin.com
-# Airtasker
-0.0.0.0 2.datadog.pool.ntp.org
-0.0.0.0 0.datadog.pool.ntp.org
-0.0.0.0 cdn-settings.segment.com
-0.0.0.0 api3.siftscience.com
-0.0.0.0 *.siftscience.com
-0.0.0.0 siftscience.com
-0.0.0.0 o377365.ingest.sentry.io
-0.0.0.0 sdk.iad-03.braze.com
-0.0.0.0 *.braze.com
-0.0.0.0 api.amplitude.com
-# SEEK
-0.0.0.0 md-a-s.apptimize.com
-0.0.0.0 md-a-c.apptimize.com
-0.0.0.0 *.apptimize.com
-0.0.0.0 brahe.apptimize.com
-0.0.0.0 apptimize.com
-0.0.0.0 api.segment.io
-0.0.0.0 web.aips-sol.com
-0.0.0.0 aips-sol.com
-0.0.0.0 *.aips-sol.com
-0.0.0.0 ip-api.com
-#SPOTIFY
-0.0.0.0 clienttoken.spotify.com
-0.0.0.0 apresolve.spotify.com
-0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 quicksilver.scdn.co
-0.0.0.0 message-editor.scdn.co
-0.0.0.0 i.scdn.co
-#VPNLAT
-0.0.0.0 fundingchoicesmessages.google.com
-0.0.0.0 babudlite.com
-0.0.0.0 subscriptionsmanagement-pa.googleapis.com
-#WOM
-0.0.0.0 zn3fpb9rwxoijaymi-wom.siteintercept.qualtrics.com
-0.0.0.0 *.siteintercept.qualtrics.com
-0.0.0.0 siteintercept.qualtrics.com
-0.0.0.0 qualtrics.com
-0.0.0.0 1701336841.rsc.cdn77.org
-0.0.0.0 eum-red-saas.instana.io
-#OTROS
-0.0.0.0 firebaseremoteconfig.googleapis.com
-0.0.0.0 api.glb.samsung-gamelauncher.com
-0.0.0.0 mobile-data.onetrust.io
-0.0.0.0 *.onetrust.io
-0.0.0.0 onetrust.io
-#OPAL
-0.0.0.0 sdk.out.usbla.net
-0.0.0.0 w.usabilla.com
-0.0.0.0 usabilla.com
-0.0.0.0 ssl.google-analytics.com
-#RethinkDNS server
-0.0.0.0 198.142.152.162
-
-
-#connectivitycheck.gstatic.com
-#firebaseinstallations.googleapis.com #en varias apps
-#ip-api.com #soudbrenner
-#kimoyo.indeed.com #Indeed
-#m1.tuyaeu.com # APP ALARMA 
-#a1.tuyaeu.com # APP ALARMA
-#gae2-dealer2.spotify.com
-
-
-####### ANDROID PORQUERIAS ###########
-
-######### PC PORQUERIAS ##############
-0.0.0.0 ctldl.windowsupdate.com		#TESTING
-0.0.0.0 afdxtest.z01.azurefd.net	#TESTING
-
-0.0.0.0 digital-cloud.medallia.com	#PC
-0.0.0.0 medallia.com			#PC
-0.0.0.0 api.mixpanel.com		#PC TEST TESTING
-
-#Block some list del fuckin' google
-0.0.0.0 www.google-analytics.com
-0.0.0.0 analytics.google.com
-0.0.0.0 142.250.67.14
-0.0.0.0 dynatrace.com
-0.0.0.0 js-cdn.dynatrace.com
-
-0.0.0.0 easysol.net
-0.0.0.0 detectca.easysol.net
-0.0.0.0 cdn3.bci.cl
-0.0.0.0 cdn2.bci.cl
-0.0.0.0 marketing.bci.cl
-0.0.0.0 104.17.111.10 #marketing.bci.cl
-0.0.0.0 107.23.44.14
-0.0.0.0 service.force.com
-0.0.0.0 googletagmanager.com
-
-0.0.0.0 supply.inmobicdn.net
-0.0.0.0 tr-asia.adsmoloco.com
-0.0.0.0 cdn-f.adsmoloco.com
-0.0.0.0 et-eus.w.inmobi.com
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 td.doubleclick.net
-0.0.0.0 fls.doubleclick.net
-0.0.0.0 ads.api.vungle.com
-0.0.0.0 ads.inmobi.com
-0.0.0.0 adservice.google.com
-0.0.0.0 adx.ads.vungle.com
-0.0.0.0 supply-inmobicdn-net-ep.azureedge.net
-0.0.0.0 supply-inmobicdn-net-ep.ec.azureedge.net
-0.0.0.0 scdn2d906.wpc.1a6d6d.kappacdn.net
-0.0.0.0 sni1gl.wpc.kappacdn.net
-0.0.0.0 api.attentionxyz.com
-0.0.0.0 api.revenuecat.com
-0.0.0.0 api.safedk.com
-0.0.0.0 app-measurement.com
-0.0.0.0 attentionxyz.com
-0.0.0.0 cdn2.inner-active.mobi
-0.0.0.0 config.inmobi.com
-0.0.0.0 config.safedk.com
-0.0.0.0 d.applovin.com
-0.0.0.0 prod-bid.applovin.com
-0.0.0.0 firebaseremoteconfig.googleapis.com
-0.0.0.0 gameswhitelisted.googleapis.com
-0.0.0.0 inapps.appsflyer.com
-0.0.0.0 launches.appsflyer.com
-0.0.0.0 creatives.smadex.com
-0.0.0.0 impression.appsflyer.com
-0.0.0.0 geo-tracker.smadex.com
-0.0.0.0 ms.applovin.com
-0.0.0.0 ms4.applovin.com
-0.0.0.0 ms4.applvn.com
-0.0.0.0 o4505273229705216.ingest.sentry.io
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 prod-mediate-events.applovin.com
-0.0.0.0 rt.applovin.com
-0.0.0.0 safebrowsing.googleapis.com
-0.0.0.0 sessions.bugsnag.com
-0.0.0.0 telemetry.sdk.inmobi.com
-0.0.0.0 www.googletagservices.com
-0.0.0.0 z.moatads.com
-0.0.0.0 ads.api.vungle.com
-0.0.0.0 adservice.google.com
-0.0.0.0 android.googleapis.com
-0.0.0.0 api.safedk.com
-0.0.0.0 app-measurement.com
-0.0.0.0 appsflyer.com
-0.0.0.0 cdn2.inner-active.mobi
-0.0.0.0 d.applovin.com
-0.0.0.0 events.ads.vungle.com
-0.0.0.0 gameswhitelisted.googleapis.com
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 inapps.appsflyer.com
-0.0.0.0 mobile.events.data.microsoft.com
-0.0.0.0 settings.data.microsoft.com	# Enlace Movil No Apparent Issues y reduce las peticiones de mobile.events.data.microsoft.com, que si es necesario
-0.0.0.0 in.appcenter.ms			# Enlace Movil
-0.0.0.0 ms.applovin.com
-0.0.0.0 ms.applvn.com
-0.0.0.0 ms4.applovin.com
-0.0.0.0 ms4.applvn.com
-0.0.0.0 pangle.io
-0.0.0.0 rt.applovin.com
-0.0.0.0 s3.amazonaws.com
-0.0.0.0 vungle.com
-
-# TESTING TESTEANDO TEST
-0.0.0.0 prod-lt-playstoregatewayadapter-pa.googleapis.com	#TESTEANDO ANDROID
-0.0.0.0 playstoregatewayadapter-pa.googleapis.com	#TESTEANDO ANDROID
-0.0.0.0 android-context-data.googleapis.com	#TESTEANDO ANDROID 
-0.0.0.0 cfota2.ospserver.net			#TESTEANDO ANDROID Server Samsung Actualizaciones
-0.0.0.0 acfota3.ospserver.net			#TESTEANDO ANDROID Server Samsung Actualizaciones
-0.0.0.0 adms.ospserver.net			#TESTEANDO ANDROID Server Samsung Actualizaciones
-0.0.0.0 afota-dn.ospserver.net			#TESTEANDO ANDROID Server Samsung Actualizaciones
-0.0.0.0 edgedl.me.gvt1.com			#TESTEANDO ANDROID
-0.0.0.0 dls.di.atlas.samsung.com		#TESTEANDO ANDROID
-0.0.0.0 android.apis.google.com			#TESTEANDO ANDROID
-0.0.0.0	gnpfesdk-pa.googleapis.com		#TESTEANDO ANDROID NI IDEA DE DONDE PS GOOGLE AGAIN
-0.0.0.0	connectivitycheck.gstatic.com		#TESTEANDO ANDROID NI IDEA DE DONDE PS GOOGLE AGAIN
-0.0.0.0	crashlyticsreports-pa.googleapis.com	#TESTEANDO ANDROID GOOGLE AGAIN
-0.0.0.0	api.mop.apps.samsung.com		#TESTEANDO ANDROID SAMSUNG FREE SPY
-0.0.0.0	cp.c-ij.com				#TESTEANDO ANDROID CANNON PRINTER TESTEANDO ANDROID
-0.0.0.0	self.events.data.microsoft.com		#TESTEANDO ANDROID
-0.0.0.0	nearbysharing-pa.googleapis.com		#TESTEANDO ANDROID
-0.0.0.0 nms-m0-ue1.samsungmdec.com		#TESTEANDO ANDROID
-0.0.0.0 capi.samsungcloud.com			#TESTEANDO ANDROID
-0.0.0.0 dc.dqa.samsung.com			#TESTEANDO ANDROID
-0.0.0.0 bcmls2.glpals.com 			#GPS-ANDROID:TESTEANDO ANDROID	#NO HAY PROBLEMA CON APPS DE MAPAS, PERO LAS FOTOS CON COORDENADAS DE UBICACION FALLAN
-0.0.0.0 gllto.glpals.comp 			#GPS-ANDROID:TESTEANDO ANDROID	#NO HAY PROBLEMA CON APPS DE MAPAS, PERO LAS FOTOS CON COORDENADAS DE UBICACION FALLAN
-0.0.0.0 gllto.glpals.com 			#GPS-ANDROID:TESTEANDO ANDROID	#NO HAY PROBLEMA CON APPS DE MAPAS, PERO LAS FOTOS CON COORDENADAS DE UBICACION FALLAN
-0.0.0.0 footprints-pa.googleapis.com		#TESTEANDO ANDROID
-0.0.0.0 phonedeviceverification-pa.googleapis.com	#TESTEANDO ANDROID
-#0.0.0.0 bixby-client.aibixby.com		#Bixby:Falla Bixbi si deshhabilito en android
-#0.0.0.0 prd-use2-user.aibixby.com		#Bixby:Necesario para bixby Voice
-0.0.0.0 bixby-pdss.oauth.aibixby.com		#Bixby:block sin problemas
-0.0.0.0 provisioning-use2.mgmt.aibixby.com	#Bixby:block sin problemas
-0.0.0.0 prd-use2-pdss-sync.aibixby.com		#Bixby:block sin problemas
-0.0.0.0 trend-log.aifrwk.com			#Bixby:block sin problemas
-0.0.0.0 bixby-developer-assets.aibixby.com	#Bixby:block sin problemas
-0.0.0.0	api.samsungconsent.com			#TESTEANDO La hueaita de samsung para aceptar terms and conditions
-0.0.0.0	diagmon-serviceapi.samsungdm.com	#TESTEANDO Scan porque no le llegan los datos
-0.0.0.0	notifications-pa.googleapis.com		# Parece que es el server donde envia que hago con las notificaciones
-
-# Microsoft Porquerias (From https://answers.microsoft.com/en-us/windows/forum/all/is-mircosoft-spying-on-end-users/a3da32e6-1a59-4ebf-9661-28ba8b592ae7)
-0.0.0.0	vortex.data.microsoft.com
-0.0.0.0	vortex-win.data.microsoft.com
-0.0.0.0	telecommand.telemetry.microsoft.com
-0.0.0.0	telecommand.telemetry.microsoft.com.nsatc.net
-0.0.0.0	oca.telemetry.microsoft.com
-0.0.0.0	oca.telemetry.microsoft.com.nsatc.net
-0.0.0.0	sqm.telemetry.microsoft.com
-0.0.0.0	sqm.telemetry.microsoft.com.nsatc.net
-0.0.0.0	watson.telemetry.microsoft.com
-0.0.0.0	watson.telemetry.microsoft.com.nsatc.net
-0.0.0.0	redir.metaservices.microsoft.com
-0.0.0.0	choice.microsoft.com
-0.0.0.0	choice.microsoft.com.nsatc.net
-0.0.0.0	df.telemetry.microsoft.com
-0.0.0.0	reports.wes.df.telemetry.microsoft.com
-0.0.0.0	wes.df.telemetry.microsoft.com
-0.0.0.0	services.wes.df.telemetry.microsoft.com
-0.0.0.0	sqm.df.telemetry.microsoft.com
-0.0.0.0	telemetry.microsoft.com
-0.0.0.0	watson.ppe.telemetry.microsoft.com
-0.0.0.0	telemetry.appex.bing.net
-0.0.0.0	telemetry.urs.microsoft.com
-0.0.0.0	telemetry.appex.bing.net:443
-0.0.0.0	settings-sandbox.data.microsoft.com
-0.0.0.0	vortex-sandbox.data.microsoft.com
-0.0.0.0	survey.watson.microsoft.com
-0.0.0.0	watson.live.com
-0.0.0.0	watson.microsoft.com
-0.0.0.0	statsfe2.ws.microsoft.com
-0.0.0.0	corpext.msitadfs.glbdns2.microsoft.com
-0.0.0.0	compatexchange.cloudapp.net
-0.0.0.0	cs1.wpc.v0cdn.net
-0.0.0.0	a-0001.a-msedge.net
-0.0.0.0	statsfe2.update.microsoft.com.akadns.net
-0.0.0.0	sls.update.microsoft.com.akadns.net
-0.0.0.0	fe2.update.microsoft.com.akadns.net
-0.0.0.0	diagnostics.support.microsoft.com
-0.0.0.0	corp.sts.microsoft.com
-0.0.0.0	statsfe1.ws.microsoft.com
-0.0.0.0	pre.footprintpredict.com
-0.0.0.0	i1.services.social.microsoft.com
-0.0.0.0	i1.services.social.microsoft.com.nsatc.net
-0.0.0.0	feedback.windows.com
-0.0.0.0	feedback.microsoft-hohm.com
-0.0.0.0	feedback.search.microsoft.com
-0.0.0.0	rad.msn.com
-0.0.0.0	preview.msn.com
-0.0.0.0	ad.doubleclick.net
-0.0.0.0	ads.msn.com
-0.0.0.0	ads1.msads.net
-0.0.0.0	ads1.msn.com
-0.0.0.0	a.ads1.msn.com
-0.0.0.0	a.ads2.msn.com
-0.0.0.0	adnexus.net
-0.0.0.0	adnxs.com
-0.0.0.0	az361816.vo.msecnd.net
-0.0.0.0	az512334.vo.msecnd.net
-0.0.0.0	99.84.203.67
-0.0.0.0	99.84.203.31
-0.0.0.0	99.84.203.103
-0.0.0.0	99.84.203.45
-
-0.0.0.0 mtalk.google.com
-0.0.0.0 google-analytics.com
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 ssl.google-analytics.com
-0.0.0.0 www.google-analytics.com
-0.0.0.0 www.google-analytics.l.google.com
-0.0.0.0 ads.google.com
-0.0.0.0 adservice.google.com
-0.0.0.0 s0-2mdn-net.l.google.com
-0.0.0.0 mail-ads.google.com
-0.0.0.0 doubleclick.net
-0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 adservice.google.com
-0.0.0.0 googleadservices.com
-0.0.0.0 pagead2.googleadservices.com
-0.0.0.0 www.googleadservices.com
-0.0.0.0 static.googleadsserving.cn
-0.0.0.0 googlesyndication.com
-0.0.0.0 ade.googlesyndication.com
-0.0.0.0 pagead.googlesyndication.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 tpc.googlesyndication.com
-0.0.0.0 displayads-formats.googleusercontent.com
-0.0.0.0 gop1.co
-0.0.0.0 img.gop1.co
-
-#OTROS
-0.0.0.0 gengtoto018.com
-0.0.0.0 fastcdn.org
-
-#TESTEANDO
-0.0.0.0 *.checkappexec.microsoft.com
-0.0.0.0 *.prod.do.dsp.mp.microsoft.com
-0.0.0.0 o.pki.goog
-
-0.0.0.0 presentation-hkg1.turn.com
-0.0.0.0 *turn.com
-0.0.0.0 verifi.podscribe.com
-0.0.0.0 arttrk.com
-0.0.0.0 adexp.liftoff.io
-0.0.0.0 a.adsrvr.org
-0.0.0.0 ad.adsrvr.org
-0.0.0.0 enduser.adsrvr.org
-0.0.0.0 csi.gstatic.com
-0.0.0.0 audio-akp-spotify-com.akamaized.net
-0.0.0.0 video-akpcw-cdn-spotify-com.akamaized.net
-0.0.0.0 noticeboard.samsungvisioncloud.com
-0.0.0.0 vision.googleapis.com
-0.0.0.0 infinitedata-pa.googleapis.com
-0.0.0.0 tos-prod-getdata.samsung-dict.com
-0.0.0.0 tos-stg-getdata.samsung-dict.com
-0.0.0.0 tos-dev-getdata.samsung-dict.com
-0.0.0.0 curbengh.github.io
-0.0.0.0 gameswhitelisted.googleapis.com
-
-### SOLO TESTEANDO HASHES Y DIFS
+7news.com.au##.ezkyf1c3
+7news.com.au##div#root > div.css-vg1rgc.e14jsnkv1 > div.css-16rswu5.e2xxidx7 > div.css-13o7eu2.e2xxidx3 > div.css-vj12wa.e1ssfjw60
+7news.com.au##footer#footer.hide-print.css-5ssf4e.e2xxidx0
+aashu.co.in###comments
+aashu.co.in##.bs-card-box.mb-4.px-3.py-4
+aashu.co.in##.bs-footer-bottom-area
+aashu.co.in##.bs-footer-copyright
+aashu.co.in##.missed
+acordes.lacuerda.net###mrShare
+acordes.lacuerda.net###mrVideo > iframe
+amp.theguardian.com##.dcr-amp-14x1a27
+amp.theguardian.com##.dcr-amp-1m5zfx2
+amp.theguardian.com##.dcr-amp-1ndwbmq
+amp.theguardian.com##.dcr-amp-7y60gi
+amp.theguardian.com##.dcr-amp-c302r5
+amp.theguardian.com##.dcr-amp-ke6741
+amp.theguardian.com##.dcr-amp-t57guz
+amp.theguardian.com##.dcr-amp-uiq752
+amp.theguardian.com##amp-sticky-ad
+android.meta.stackexchange.com,android.stackexchange.com,api.stackexchange.com,apple.meta.stackexchange.com,apple.stackexchange.com,arqade.com,askubuntu.com,bicycles.meta.stackexchange.com,bicycles.stackexchange.com,blog.axway.com,blogoverflow.com,boardgames.meta.stackexchange.com,boardgames.stackexchange.com,chemistry.stackexchange.com,codegolf.meta.stackexchange.com,codegolf.stackexchange.com,codereview.meta.stackexchange.com,codereview.stackexchange.com,cooking.meta.stackexchange.com,cooking.stackexchange.com,cstheory.meta.stackexchange.com,cstheory.stackexchange.com,dba.meta.stackexchange.com,dba.stackexchange.com,diy.meta.stackexchange.com,diy.stackexchange.com,drupal.meta.stackexchange.com,drupal.stackexchange.com,electronics.meta.stackexchange.com,electronics.stackexchange.com,english.meta.stackexchange.com,english.stackexchange.com,fitness.meta.stackexchange.com,fitness.stackexchange.com,gamedev.meta.stackexchange.com,gamedev.stackexchange.com,gaming.meta.stackexchange.com,gaming.stackexchange.com,german.stackexchange.com,gis.meta.stackexchange.com,gis.stackexchange.com,graphicdesign.meta.stackexchange.com,graphicdesign.stackexchange.com,homebrew.meta.stackexchange.com,homebrew.stackexchange.com,judaism.meta.stackexchange.com,judaism.stackexchange.com,math.meta.stackexchange.com,math.stackexchange.com,mathematica.stackexchange.com,mathoverflow.net,maths.stackexchange.com,mechanics.meta.stackexchange.com,mechanics.stackexchange.com,meta.arqade.com,meta.askubuntu.com,meta.askubuntu.com,meta.nothingtoinstall.com,meta.photography.stackexchange.com,meta.photos.stackexchange.com,meta.seasonedadvice.com,meta.serverfault.com,meta.stackexchange.com,meta.stackoverflow.com,meta.statistics.stackexchange.com,meta.superuser.com,meta.thearqade.com,meta.webmaster.stackexchange.com,money.meta.stackexchange.com,money.stackexchange.com,music.meta.stackexchange.com,music.stackexchange.com,parenting.meta.stackexchange.com,parenting.stackexchange.com,photo.meta.stackexchange.com,photo.stackexchange.com,photography.stackexchange.com,physics.meta.stackexchange.com,physics.stackexchange.com,pm.meta.stackexchange.com,pm.stackexchange.com,quant.meta.stackexchange.com,quant.stackexchange.com,rpg.meta.stackexchange.com,rpg.stackexchange.com,scifi.meta.stackexchange.com,scifi.stackexchange.com,security.meta.stackexchange.com,security.stackexchange.com,serverfault.com,sharepoint.meta.stackexchange.com,sharepoint.stackexchange.com,skeptics.meta.stackexchange.com,skeptics.stackexchange.com,softwareengineering.meta.stackexchange.com,softwareengineering.stackexchange.com,softwarerecs.stackexchange.com,sqa.meta.stackexchange.com,sqa.stackexchange.com,stackapps.com,stackmod.blog,stackoverflow.blog,stackoverflow.co,stackoverflow.com,stackoverflow.email,stackoverflow.help,stackoverflow.jobs,stackoverflowbusiness.com,stackoverflowsolutions.com,stackoverflowteams.com,statistics.stackexchange.com,stats.meta.stackexchange.com,stats.stackexchange.com,superuser.com,tex-talk.net,tex.meta.stackexchange.com,tex.stackexchange.com,thesffblog.com,unix.meta.stackexchange.com,unix.stackexchange.com,ux.meta.stackexchange.com,ux.stackexchange.com,video.meta.stackexchange.com,video.stackexchange.com,webapps.meta.stackexchange.com,webapps.stackexchange.com,webmasters.meta.stackexchange.com,webmasters.stackexchange.com,wordpress.meta.stackexchange.com,wordpress.stackexchange.com,writing.meta.stackexchange.com,writing.stackexchange.com,www.stackoverflow.com###sidebar, .js-footer.site-footer, .ai-center.site-footer--extra, .show-votes, .site-footer--container, #left-sidebar, .d-flex.fw-wrap.ai-start.jc-end.gs8.gsy, #noscript-warning, .s-topbar.ps-fixed.t0.l0.js-top-bar, #notify-container, #announcement-banner, .bottom-notice, #post-form
+answers.microsoft.com###Footer
+answers.microsoft.com###Header
+answers.microsoft.com###announcementSection
+answers.microsoft.com###threadRightColumnContainer
+answers.microsoft.com###threadSummaryBlankSpace
+answers.microsoft.com##.ask-question-orientation
+au.yahoo.com###commerce-module-articles
+au.yahoo.com###footer-wrapper
+au.yahoo.com##.topics-module
+blog.postman.com###Footer
+blog.postman.com###post-16783 > .container
+blog.postman.com###primary > .container
+blog.postman.com##.comment-respond
+blog.postman.com##.entry-meta-global.pb-0.pl-3.pr-3.pt-4.offset-lg-2.col-lg-8
+blog.postman.com##.form-submit
+blog.postman.com##.jetpack-related-section
+blog.postman.com##.justify-content-between.row
+blog.postman.com##.nav-primary.navbar-light.navbar-expand-lg.navbar.navbar-v6
+blog.postman.com##.nav-secondary.navbar-light.navbar-expand-lg.sticky-top.navbar.navbar-v6
+blog.postman.com##.widget-callout-section
+blog.postman.com##.wpulike-heart.wpulike
+codedamn.com##.h-full.w-full.left-0.top-0.fixed.z-\[999999\].bg-white
+codedamn.com##.pb-16.lg\:pb-0.space-y-4.lg\:col-span-3.col-span-12
+codedamn.com##.print\:hidden.dark\:bg-gray-900.dark\:border-gray-700.bg-gray-50.border-gray-200.border-t.z-40
+codedamn.com##.py-5.bg-white.border-gray-200.border.rounded-lg.mt-6
+codedamn.com##.sm\:p-6.py-5.px-4.bg-white.border-gray-200.border.rounded-lg.jsx-f2d8ba8b05880cf1
+coles.com.au##.coles-targeting-HeaderHeaderBottomLocationWrapper.fnXNDG.sc-7a83d031-3
+community.adobe.com##.recom-parent
+docs.bmc.com##.layout-footer
+duckduckgo.com##.c_ZIRTZwvW2k4q8TtKU0
+es.pornhub.com###under-player-playlists > div
+es.pornhub.com##.playlist-listingSmall.user-playlist.videos
+extranet.torrentbay.net##.py-md-3.bd-toc.col-xl-2.d-xl-block
+extranet.torrentbay.st##.header-top-right
+extranet.torrentbay.st##.hide-on-mob.float-right-main.btn-blocks
+extranet.torrentbay.st##.md-18.material-icons
+extranet.torrentbay.st##.py-md-3.bd-toc.col-xl-2.d-xl-block
+hackernoon.com##.footer.gBpxDY.sc-69a5585e-0
+hackernoon.com##.gioxCH.sc-bf9213f4-1
+howtogeek.com###secondary
+howtogeek.com###website-footer
+howtogeek.com##.ad-zone-content-character-count-repeatable-1.ad-zone
+howtogeek.com##.ad-zone-content-character-count-repeatable.ad-zone
+howtogeek.com##.ad-zone-footer-footer.ad-zone
+howtogeek.com##.article-footer
+howtogeek.com##.article-header-complementary
+howtogeek.com##.article-options
+howtogeek.com##.main-navigation.wrapper
+howtogeek.com##.related-single
+howtogeek.com##.subnav-navigation.wrapper
+howtogeek.com##.w-header-user-box
+imgur.com##.BottomRecirc
+imgur.com##.CommentsList
+imgur.com##.Gallery-Content--tags
+imgur.com##.Gallery-EngagementBar--bottom.Gallery-EngagementBar
+imgur.com##.Gallery-Sidebar
+imgur.com##.Gallery-Sidebar-Wrapper
+imgur.com##.Sticky.Top
+kbb.com##.overlay-subscription-email
+learn.microsoft.com###ms--additional-resources
+linuxbabe.com###footer
+linuxbabe.com###sidebar
+linuxhandbook.com##.has-wide.has-full.md\:mb-28.sm\:mb-20.mb-16.lg\:content-lg.content > [href]
+linuxtldr.com##.comments-area
+linuxtldr.com##.inside-right-sidebar
+mail.google.com##.m_-1065864078292703074brand-logo-hack
+mail.google.com##.m_5506092503941464554center-on-narrow
+mail.google.com##.vh
+mail.google.com##[alt="Illustration of 3 colourful pool floaties"]
+mail.google.com##[alt="banner"]
+mail.google.com##div.m_-1065864078292703074mj-column-per-50 > div.m_-1065864078292703074mj-column-per-50 > table > tbody > tr > td
+mail.google.com##table.m_5506092503941464554em_wrapper > tbody > tr > td
+mail.google.com##td > div.m_-1065864078292703074mj-column-per-50 > table > tbody > tr > td > table > tbody > tr > td
+medium.com##.ab.jb.ja > .k.h
+medium.com##.ac.ab.r.q.p > .fg.ff.w.k.h
+medium.com##.ac.ab.r.q.p > .j.k.h.fh
+medium.com##.ac.ab.r.q.p > .l
+medium.com##.c.l > div.l > .ca.ab
+medium.com##.ch.bg.fy.fz.ga.gb > .ck.ab.si.co
+medium.com##.fi.ab.ig > div > .bl
+medium.com##.h.aw
+medium.com##.j.i.d
+medium.com##.j.k.h > .ca.ab
+medium.com##.jc.ab.dt.z.bf.b.be
+medium.com##.jm.jl.jk.jj.ji.jh.jg.jf.je.jd.jc.jb.ja.iz.iy.ix.co.ab
+medium.com##.js-stickyFooter, .u-tintSpectrum, .js-metabar, .u-clearfix.metabar, .butterBar-message, .is-other.markup--p-quote.markup--quote, .js-postActionsBar, .postActionsBar, .overlay--lighter.overlay, .js-metabarMiddle, .js-postActionsBarContent, .metabar-block
+medium.com##.l.bg.bm > .ab
+medium.com##.noopener.follow
+medium.com##.sn.so.l
+medium.com##[href^="/"] > div > .bl
+medium.com##div#root > div.a.b.c > div.l.c > div.l > div.ft.fu.fv.fw.fx.l > article > div.l > div.l > section > div > div > div.ab.ca > div.ch.bg.fy.fz.ga.gb > div.speechify-ignore.gm.gn.go.gp.gq.l > div > div.speechify-ignore.ab.co > div.speechify-ignore.bg.l > div[class$="ij"]
+medium.com##div#root > div.a.b.c > div.l.c > div.l > div.ft.fu.fv.fw.fx.l > article > div.l > div.l > section > div > div.gm.gn.go.gp.gq > div.ab.ca > div.ch.bg.fy.fz.ga.gb > div > div > div.speechify-ignore.ab.co > div.speechify-ignore.bg.l > div[class^="ab"]
+medium.com##div#root > div.a.b.c > div.l.c > div.l > div.fu.fv.fw.fx.fy.l > article > div.l > div.l > section > div > div > div.ab.cb > div.ci.bh.fz.ga.gb.gc > div.speechify-ignore.gn.go.gp.gq.gr.l > div > div.speechify-ignore.ab.cp > div.speechify-ignore.bh.l > div[class^="ab"]
+medium.com##div#root > div.a.b.c > div.l.c > div.l > div.fu.fv.fw.fx.fy.l > article > div.l > div.l > section > div > div.gn.go.gp.gq.gr > div.ab.cb > div.ci.bh.fz.ga.gb.gc > div > div > div.speechify-ignore.ab.cp > div.speechify-ignore.bh.l > div[class^="ab"]
+medium.com##div#root > div.a.b.c > div.l.c > div.l > div.fu.fv.fw.fx.fy.l > article > div.l > div.l > section > div > div.gn.go.gp.gq.gr > div.ab.cb > div.ci.bh.fz.ga.gb.gc > div.pn.po.pp.pq.pr.ps
+medium.com##div#root > div.a.b.c > div.l.c > div.l > div.fu.fv.fw.fx.fy.l > article > div.l > div.l > section > div > div.ld.le.lf.lg.lh > div.ab.cb > div.ci.bh.fz.ga.gb.gc > div.gn.go.gp.gq.gr.nf
+medium.com##div#root > div.a.b.c > div.l.c > div.l > div[class$="bw"]
+medium.com##div#root > div.a.b.c > div.l.c > div.l > div[class$="bx"]
+medium.com##div#root > div.a.b.c > div.l.c > div.l > footer[class$="c"]
+medium.com##div[aria-controls="postFooterSocialMenu"]
+medium.com##div[data-testid="footerClapButton"]
+medium.com##div[data-testid="headerUserIcon"]
+neifredomar.com##.et_bloom_animated.et_bloom_visible.et_bloom_trigger_bottom.et_bloom_auto_popup.et_bloom_optin_1.et_bloom_resize.et_bloom_optin.et_bloom_popup
+nwm.bancoestado.cl##.msd-modalhome--container
+nwm.bancoestado.cl##.ng-tns-c102-3.msd-sideBar__container__body
+onedrive.live.com##.od-QuotaBanner-upsell
+ostechnix.com###post-10239 > .bioimg-round.abio-style-1.post-author
+ostechnix.com###sidebar > .theiaStickySidebar
+ostechnix.com###widget-area
+ostechnix.com##.comment-respond
+ostechnix.com##.penci-ldsingle
+ostechnix.com##.post-related.pcrlt-style-3
+ostechnix.com##div.penci-single-block:nth-of-type(3)
+outlook.live.com###\39 737ec70-a648-016b-3e3b-133445453916
+outlook.live.com###srOnTopMainDiv
+outlook.live.com##.GssDD
+outlook.live.com##.LBktY > .GssDD > .z0duZ
+outlook.live.com##.Soq5F
+outlook.live.com##.d2eN9.xsObw.l_OBE
+pan.baidu.com##.u-popover__reference.wp-s-header-user__create-team-title
+pan.baidu.com##.u-svip-button--mini.u-svip-button--main.is-round.u-button--mini.u-button--default.wp-s-header__vip-btn-wrapper.u-svip-button.u-button
+pan.baidu.com##.web-header-ad-item.inline-block-v-middle
+pan.baidu.com##.wp-s-header__game-entry-redPoint
+pcmag.com,au.pcmag.com##footer, .lab-disclaimer, .footer-wrapper, .morelikethis, .bottom.wrapper, .xl\:grid-cols-\[1fr\,300px\].grid-cols-1.grid.mb-8.container, .xl\:flex.md\:my-16.contain-intrinsic-size-\[auto_none\].content-visibility-auto.inline-block.mt-8.container
+peakd.com##.visible-lg.position-sticky-top.post-right-sidebar
+phoenixnap.com###div_block-110-157
+phoenixnap.com###div_block-97-157
+phoenixnap.com###section-115-7 > .ct-section-inner-wrap
+phoenixnap.com###section-162-7 > .ct-section-inner-wrap
+phoenixnap.com###section-164-137 > .ct-section-inner-wrap
+phoenixnap.com###was-this-helpful
+phoenixnap.com##.mega-menu-horizontal.max-mega-menu.mega-menu
+ryanstutorials.net##.margin-top.footer-background.container-fluid
+salespanel.io##.p-4.modal-body
+screeble.com##.td-post-featured-image
+search.brave.com###discussions
+search.brave.com###summarizer
+stackabuse.com##.aspect-h-9.aspect-w-16
+stackabuse.com##.border-gray-300.border.rounded.py-3.px-6.bg-white
+stackabuse.com##.justify-between.flex-col.flex.p-4.bg-white.flex-1
+stackabuse.com##.lg\:px-8.md\:justify-between.md\:items-center.md\:flex.sm\:px-6.px-4.pb-6.pt-12.mx-auto.max-w-screen-xl
+stackabuse.com##.lg\:py-8.py-6.px-0.mx-auto.max-w-6xl
+stackabuse.com##.object-cover
+stackabuse.com##.overflow-hidden.w-full.h-full
+stackabuse.com##.pl-8.col-span-7
+stackabuse.com##.py-2.md\:justify-between.md\:items-center.md\:flex
+stackabuse.com##.sm\:border-2.sm\:p-3.sm\:mt-12
+stackabuse.com##.sm\:mb-6.sm\:mt-12.my-6
+stackabuse.com##.top-0.sticky.py-4
+stackabuse.com##.xl\:grid-cols-2.grid-cols-1.grid.xl\:justify-between.xl\:items-center.xl\:flex.lg\:px-10.lg\:py-16.md\:px-8.md\:py-12.rounded-lg.py-6.px-6
+stackabuse.com##div.flex-wrap.content-start.flex:nth-of-type(3)
+stackabuse.com##div.py-4:nth-of-type(3)
+support.microsoft.com###headerRegion
+support.microsoft.com###ocFooterWrapper
+support.microsoft.com##.articleSupportBridge.ocArticleFooterSection
+support.microsoft.com##.prrColumnWrapper
+support.microsoft.com##div.c-uhff-nav-group
+tiohentai.com##.facebook-comments > iframe
+tiohentai.com##.header
+tiohentai.com##footer
+tipicochileno.cl###box_modal_legal
+tipicochileno.cl###overlay_video
+ubuntushell.com###post-4809 > iframe
+ubuntushell.com##.cf.lower-footer
+ubuntushell.com##.cf.posts.ts-row
+ubuntushell.com##.inner > ul
+ubuntushell.com##.section-head
+ubuntushell.com##.upper-footer
+unit42.paloaltonetworks.com##.pan-search-coveo-header
+unit42.paloaltonetworks.com##.product-2021-nav-main
+www.24horas.cl##.art-principal.wrap-art.auxi > .row > .lg-9.md-9.sm-12.xsm-12.xs-12.col > .art-content > .CUERPO > .prontus-card-container > .prontus-card-content > .box-horizontal.box-dest
+www.24horas.cl##.art-principal.wrap-art.auxi > .row > .lg-9.md-9.sm-12.xsm-12.xs-12.col > .art-content > .CUERPO > .prontus-card-container > .prontus-card-content > .box-horizontal.box-dest > .cont-txt
+www.24horas.cl##.art-principal.wrap-art.auxi > .row > .lg-9.md-9.sm-12.xsm-12.xs-12.col > .art-content > .banner-full
+www.24horas.cl##.enc-txt.enc-port
+www.24horas.cl##.footer-main
+www.24horas.cl##.footer-sec
+www.24horas.cl##.header
+www.24horas.cl##.lg-9.md-9.sm-12.xsm-12.xs-12.col > div.banner-full
+www.24horas.cl##div.eScrollArtic > .wrap-art.auxi > .row > .lg-9.md-9.sm-12.xsm-12.xs-12.col > .art-content > .banner-full
+www.9news.com.au##.article__contact
+www.9news.com.au##.article__native-links
+www.9news.com.au##.header-wrapper
+www.9news.com.au##.layout__utility__sticky > section
+www.activestate.com##.cesis_list
+www.activestate.com##.e-parent.e-con.e-con-boxed.e-flex.elementor-element-352b89d3.elementor-element > .e-con-inner
+www.activestate.com##.e-parent.e-con.e-con-boxed.e-flex.elementor-element-618751a.elementor-element
+www.activestate.com##.vc_row > .vc_row > div.vc_column
+www.activestate.com##div.vc_column_text:nth-of-type(4)
+www.aliexpress.com##a._2f4Ho._1lP57:has-text(AD)
+www.automatetheplanet.com###guideBannerSection
+www.automatetheplanet.com###theme-sidebar-section
+www.automatetheplanet.com##.attachment-full.size-full.wp-post-image
+www.automatetheplanet.com##.tcb-post-list.tve-content-list.thrv_wrapper
+www.automatetheplanet.com##.thrv_wrapper.tve_wp_shortcode
+www.automatetheplanet.com##.wp-block-file.padded-15.tat-g
+www.baeldung.com###sidebar1
+www.baeldung.com##._3n1zmx
+www.baeldung.com##.aelzmn
+www.baeldung.com##.bael_page_inner_head.meta-row
+www.baeldung.com##.before-post-widgets
+www.baeldung.com##.content-info
+www.baeldung.com##.header--menu
+www.baeldung.com##.topAdContainer.code-block-1.code-block
+www.bancoestado.cl###container-7130149da3 > .aem-Grid--default--12.aem-Grid--12.aem-Grid > .aem-GridColumn--default--12.aem-GridColumn.title
+www.bancoestado.cl###container-783c8ff221 > .aem-Grid--default--12.aem-Grid--12.aem-Grid > .aem-GridColumn--default--12.aem-GridColumn.title
+www.bancoestado.cl##.aem-GridColumn--default--12.aem-GridColumn.container-numbercolumn
+www.bancoestado.cl##.aem-GridColumn--default--12.aem-GridColumn.containercols
+www.bancoestado.cl##.aem-GridColumn--default--12.aem-GridColumn.contract-content.orange-indicators.orange-arrow.panelcontainer.carousel > .view-mode.cmp-carousel
+www.bancoestado.cl##.aem-GridColumn--default--12.aem-GridColumn.text.textv2
+www.bancoestado.cl##.aem-GridColumn--default--12.aem-GridColumn.white-indicators.white-arrow.panelcontainer.carousel > .view-mode.cmp-carousel
+www.bancoestado.cl##.msd-background--grey-light
+www.bancoestado.cl##.msd-container--fluid
+www.bancoestado.cl##.msd-margin-10.msd-margin
+www.bancoestado.cl##.msd-margin-20.msd-margin
+www.bancoestado.cl##.msd-modalhome--container
+www.bancoestado.cl##.msd-modalhome--container-content
+www.bancoestado.cl##.msd-simuladorcredito
+www.bancoestado.cl##.msd-videov2
+www.bci.cl###intro-step1
+www.bci.cl##.benefits-home
+www.bci.cl##.compromiso
+www.bci.cl##.footer-desktop > .footer-bottom
+www.bci.cl##.mt-5.ofertas-home
+www.bci.cl##.productos
+www.bci.cl##.pt-4.cont-slider-destacado
+www.bci.cl##.text-center.experience-digital
+www.biobiochile.cl###appComponentComunidad > div
+www.biobiochile.cl##.botones-google-news-wsp
+www.biobiochile.cl##.contenedor
+www.biobiochile.cl##.footer-bottom
+www.biobiochile.cl##.footer-top
+www.biobiochile.cl##.gtm-event-visibility.section-sponsored.section
+www.biobiochile.cl##.infinite-scroll-post-container
+www.biobiochile.cl##.nav-container > .container > .categories-nav.nav
+www.biobiochile.cl##.section-title
+www.browserstack.com###footer-habitat
+www.browserstack.com###guide-featured-article
+www.browserstack.com###guideFooterBannerSectionCTA
+www.browserstack.com###header-habitat
+www.browserstack.com##.yt-embed
+www.bunnings.com.au##.component-section.cenchl.sc-32366666-13.feGOHG.sc-9a9fd943-0
+www.bunnings.com.au##.component-section.gsQkUp.sc-91d9bdbf-0
+www.bunnings.com.au##.component-section.hAHpgU.sc-4a1dd218-0
+www.bunnings.com.au##.iEJIyM.sc-cec379cb-1
+www.bunnings.com.au##.vZNrz.sc-605db50f-1
+www.comparitech.com###ct-popup
+www.comparitech.com###ct066
+www.comparitech.com##.alignnone.wp-image-437392.size-full
+www.comparitech.com##.author-details
+www.comparitech.com##.author-reviewed-by-wrapper
+www.comparitech.com##.comments
+www.comparitech.com##.footer-container
+www.comparitech.com##.how_test
+www.comparitech.com##.pop-privacy.ct-nordvpn-bf-nov-2020.ct_popup_modal
+www.comparitech.com##.size-full.wp-image-437975.alignnone
+www.comparitech.com##.tablewrapper
+www.comparitech.com##.vpn.ct089
+www.comparitech.com##div.body-inner > div.page-container > div.main-container > div.main.wrapper > div.section.group.main-content.sidebar-active > div.col.span_2_of_3.grid-item.content > div.entry-content > p > a[href="https*"]
+www.cyberciti.biz###comments
+www.cyberciti.biz###footer
+www.cyberciti.biz##.crp-text-only.crp_related
+www.cyberciti.biz##.grt.content > div > .search-form > .search-form-inner > .nixcraftsearchbox
+www.cyberciti.biz##.nixcraft-p-container
+www.cyberciti.biz##.sidebar
+www.cyberciti.biz##.text.prev_next
+www.elciudadano.com###clev-ros
+www.elciudadano.com##.col-md-3.col-12 > h3
+www.elciudadano.com##.dark-footer.pb-5.px-md-3.pt-5.pt-md-5.mt-md-5.pt-4
+www.elciudadano.com##.mb-3.offset-md-3.col-md-4.col-12
+www.elciudadano.com##.mb-md-0
+www.elciudadano.com##.my-2.border-top
+www.elciudadano.com##.no-underline.flex-column.align-items-center.d-flex.order-md-1.col-md-3.col-12
+www.elciudadano.com##.p-md-5.py-5.p-3.container-fluid-
+www.elciudadano.com##.pt-3-.order-md-2.the-content-box.col-md-9.col-md-85-.col-12 > .row > .pb-3.col > .pb-2.pt-5.my-5.border-top.row
+www.elciudadano.com##.text-center.t-0.pb-5.pt-4.mb-auto.sticky.share-buttons
+www.elmostrador.cl##.common\:margin-top-35.\|.the-single-footer.the-single__footer
+www.elmostrador.cl##.common\:margin-top-70.\|.d-main-footer
+www.elmostrador.cl##.d-inner-section__sidebar
+www.elmostrador.cl##.is-active.the-share--bigger.the-share--left.the-share > .js-the-share-button.em-icon-circle-share.\|.the-share__button
+www.elmostrador.cl##.is-active.the-share--bigger.the-share--left.the-share > .the-share__wrapper
+www.elmostrador.cl##.u-container.\|.main__container > .d-section
+www.elmostrador.cl##.u-container.main-header__container
+www.elmostrador.cl##div:nth-of-type(15)
+www.facebook.com##.x10wlt62.x6ikm8r > div > .x1ja2u2z.x1n2onr6.x9f619 > .x1y1aw1k.xwib8y2.x9otpla.x1wsgfga.x1ja2u2z.x1n2onr6.x9f619 > .xhfbhpw.x1rohswg.x1y1aw1k.xwib8y2.xat24cr.x9f619.x7p5m3t.xw2csxc.xjx87ck.x1yqm8si.xfk6m8.x1pq812k.x1ja2u2z.x1n2onr6.x10wlt62.xdt5ytf.x78zum5.x5lxg6s.x1q594ok.xb57i2i
+www.facebook.com##.x1g2khh7.x1n2onr6
+www.facebook.com##.x1i64zmx.xl56j7k.xdt5ytf.x78zum5.xqcrz7y.xeuugli.x193iq5w.x2lah0s.x1ja2u2z.x1n2onr6.x9f619 > .x1q0g3np.xozqiw3.x6s0dn4.x1qughib.x2lah0s.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+www.facebook.com##.x1iorvi4.x1pi30zi.x1swvt13.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+www.facebook.com##.x1n2onr6.x1iyjqo2.xdt5ytf.x78zum5 > .x1n2onr6.xozqiw3.x1q0g3np.x78zum5
+www.facebook.com##.x1swvt13.xjkvuk6.x1pi30zi.xz9dl7a.x1qughib.x1q0g3np.x78zum5
+www.facebook.com##.x1swvt13.xr1496l.x1pi30zi.x1y1aw1k.xl56j7k.x1qx5ct2.x78zum5.x6s0dn4
+www.facebook.com##.x1yrsyyn.x10b6aqq.x16hj40l.xsyo7zv.xs83m0k.x1iyjqo2.x1r8uery.xeuugli.x193iq5w.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xh8yej3.x1n2onr6.xl56j7k.xdt5ytf.x3nfvp2.x9f619.x1a2a7pz.x1lku1pv.x87ps6o.x13rtm0m.x1e5q0jg.x3x9cwd.x1o1ewxj.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.x1ypdohk.xav7gou.xaqea5y.x1b1mbwd.x6umtig.xjbqb8w.x1i10hfl > .x1r1pt67.x1qhmfi1.x1ye3gou.xn6708d.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x1403ito.x585lrc.x17zwfj4.xi112ho.x1q0g3np.xozqiw3.x6s0dn4.xl56j7k.x2lah0s.x78zum5.x1ja2u2z.x1n2onr6
+www.facebook.com##.x4p5aij.x1j85h84
+www.facebook.com##.xwib8y2.x1y1aw1k.x1pi30zi.x1swvt13.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+www.facebook.com##.xx6bls6.x1cnzs8.x1pi30zi.x1swvt13.x193iq5w.x2lah0s.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+www.facebook.com##div.x1lliihq:nth-of-type(5)
+www.facebook.com##div.xifccgj.x4cne27.xbmpl8g.xykv574.xyamay9.x1swvt13.x1pi30zi.x1q0g3np.xozqiw3.x1qjc9v5.x1qughib.x2lah0s.x78zum5.x1ja2u2z.x1n2onr6.x9f619
+www.facebook.com##div.xifccgj.x4cne27.xbmpl8g.xykv574.xyamay9.x1swvt13.x1pi30zi.x1q0g3np.xozqiw3.x1qjc9v5.x1qughib.x2lah0s.x78zum5.x1ja2u2z.x1n2onr6.x9f619:nth-of-type(2)
+www.facebook.com##div.xifccgj.x4cne27.xbmpl8g.xykv574.xyamay9.x1swvt13.x1pi30zi.x1q0g3np.xozqiw3.x1qjc9v5.x1qughib.x2lah0s.x78zum5.x1ja2u2z.x1n2onr6.x9f619:nth-of-type(3)
+www.facebook.com##div.xifccgj.x4cne27.xbmpl8g.xykv574.xyamay9.x1swvt13.x1pi30zi.x1q0g3np.xozqiw3.x1qjc9v5.x1qughib.x2lah0s.x78zum5.x1ja2u2z.x1n2onr6.x9f619:nth-of-type(4)
+www.facebook.com##div.xifccgj.x4cne27.xbmpl8g.xykv574.xyamay9.x1swvt13.x1pi30zi.x1q0g3np.xozqiw3.x1qjc9v5.x1qughib.x2lah0s.x78zum5.x1ja2u2z.x1n2onr6.x9f619:nth-of-type(even)
+www.facebook.com##div.xifccgj.x4cne27.xbmpl8g.xykv574.xyamay9.x1swvt13.x1pi30zi.x1q0g3np.xozqiw3.x1qjc9v5.x1qughib.x2lah0s.x78zum5.x1ja2u2z.x1n2onr6.x9f619:nth-of-type(n+2)
+www.facebook.com##div.xifccgj.x4cne27.xbmpl8g.xykv574.xyamay9.x1swvt13.x1pi30zi.x1q0g3np.xozqiw3.x1qjc9v5.x1qughib.x2lah0s.x78zum5.x1ja2u2z.x1n2onr6.x9f619:nth-of-type(odd)
+www.forbes.com##.article-footer
+www.forbes.com##.bottom-contrib-block
+www.forbes.com##.embed-7.link-embed.color-body-border.color-body.embed-base
+www.forbes.com##.fs-responsive-text.article-body.sigfile
+www.forbes.com##.paywall_ribbon
+www.forbes.com##.seo.recirc-module
+www.freecodecamp.org##.footer-top
+www.freecodecamp.org##.learn-cta-row > p
+www.freecodecamp.org##.post-full-content > .post-full-author-header > .author-card
+www.freecodecamp.org##.post.post-full > .post-full-author-header > .author-card
+www.freecodecamp.org##.site-footer
+www.geeksforgeeks.org##.article--recommended_wrapper.article--recommended
+www.geeksforgeeks.org##.article-meta
+www.geeksforgeeks.org##.article-meta-author-details
+www.geeksforgeeks.org##.discussion_panel
+www.geeksforgeeks.org##.footer-strip
+www.geeksforgeeks.org##.footer-wrapper
+www.geeksforgeeks.org##.header-main__left-list
+www.geeksforgeeks.org##.header-main__list
+www.geeksforgeeks.org##.header-main__slider
+www.geeksforgeeks.org##.improved
+www.geeksforgeeks.org##.rightBar
+www.geeksforgeeks.org##.text iframe
+www.geeksforgeeks.org##.three_dot_dropdown
+www.genbeta.com###head-favicons > .head-favicons
+www.genbeta.com###headlines > .head-menu
+www.genbeta.com###search > .head-menu
+www.genbeta.com###sections > .head-menu
+www.genbeta.com##.foot-head
+www.genbeta.com##.foot-wrapper-show.foot-wrapper.wrapper
+www.genbeta.com##.is-init.head-with-ad.head
+www.genbeta.com##.js-post-images-container.article-asset-image.article-asset-big > .asset-content
+www.genbeta.com##.latam-blogs
+www.genbeta.com##.m-evergreen-links.section-deeplinking-container > .section-deeplinking
+www.genbeta.com##.o-deeplinking-section_wrapper.section-deeplinking
+www.genbeta.com##.post-tags-container
+www.genbeta.com##.spain-blogs
+www.genbeta.com##.view-more > p
+www.genbeta.com##div.favicons-expanded-inner > ul
+www.gmass.co##nav
+www.google.com###box_modal_legal
+www.google.com###overlay_video
+www.google.com##.cUnQKe
+www.google.com##.no-js
+www.hostingadvice.com###sidebar-main
+www.hostingadvice.com##.article-footer
+www.hostingadvice.com##.normal-item.review-item
+www.hostingadvice.com##.yarpp-template-yarpp-template-example.yarpp-related-website.yarpp-related.yarpp
+www.hostingadvice.com##footer
+www.instagram.com##div > .xnc8uc2.x11aubdm.xso031l.x1q0q8m5.x1bs97v6 > div
+www.itvpatagonia.com##.td-fix-index.tdb-category
+www.itvpatagonia.com##.td-is-sticky.td-pb-span4.tdc-column.vc_column_container.wpb_column.tdi_111.vc_column
+www.itvpatagonia.com##.td-pb-row.wpb_row.tdi_119.vc_row
+www.itvpatagonia.com##.td-pb-span12.tdc-column.vc_column_container.wpb_column.tdi_137.vc_column
+www.itvpatagonia.com##.td-pb-span12.tdc-column.vc_column_container.wpb_column.tdi_149.vc_column
+www.itvpatagonia.com##.td-pb-span12.tdc-column.vc_column_container.wpb_column.tdi_70.vc_column
+www.itvpatagonia.com##.td_block_template_1.td-pb-border-top.tdi_105.tdm_block_inline_text.td_block_wrap.tdm_block > .tdm-descr
+www.itvpatagonia.com##.tdb-tags > li
+www.itvpatagonia.com##.tdc-element-style.td-pb-row.wpb_row.tdi_135.vc_row
+www.itvpatagonia.com##.tdc-element-style.td-pb-row.wpb_row.tdi_155.tdc_zone
+www.itvpatagonia.com##.tdc-element-style.td-pb-row.wpb_row.tdi_28.tdc_zone
+www.itvpatagonia.com##.tdc-element-style.td-pb-row.wpb_row.tdi_53.tdc_zone
+www.itvpatagonia.com##.wp-block-embed__wrapper
+www.lacuarta.com##.ajuste-1440-cards.most-read.mb1.clearfix, .bg-white.header.z2, .bottom-section > .ajuste-1440-cards.grid-block-cards.mb1.clearfix, .bottom-section > .ajuste-1440-cards.grid-block-cards.mb1.clearfix > .container > .px2.flex-wrap.flex.grid-container, .noreadme-audima > .list-reset, .noreadme-audima > h2, .pb0.pt2.sm-hide.xs-hide.clearfix, .pr2.aside-right > .ajuste-1440-cards.grid-block-cards.mb1.clearfix > .container > .px2.flex-wrap.flex.grid-container, .section-cronica.ajuste-1440-cards.more-of-section.mb1.clearfix, .section-espectaculos.ajuste-1440-cards.more-of-section.mb1.clearfix, .section-tendencias.ajuste-1440-cards.more-of-section.mb1.clearfix, .story-instagram.story-embeded, .story-instagram.story-embeded > div, .story-tiktok.story-embeded, footer, p:nth-of-type(10), p:nth-of-type(11), p:nth-of-type(12), p:nth-of-type(13), p:nth-of-type(7), p:nth-of-type(8), p:nth-of-type(9), .ajuste-1440-cards.grid-block-cards.mb1.clearfix, div.story-twitter.story-embeded iframe, .pr2.aside-right
+www.lahuertinadetoni.es##.aawp
+www.lahuertinadetoni.es##.code-block-1.code-block
+www.lahuertinadetoni.es##.is-search-input
+www.lahuertinadetoni.es##.post-navigation.navigation
+www.lahuertinadetoni.es##.related-post
+www.lahuertinadetoni.es##.widget-area
+www.latercera.com##.brand-space, .logo, .m-top-30.m-bot-30.art-offer.border-none.p-relative.\|.subgrid, .main-footer, .show-over-768.suscription, .single-content > div, .top-sidebary > .tsidebar, .undefined.down-this.top-menu, .width_full.relative.text-center.msg-warning.msg-suscriptor.align_items_start.\|.card, div.undefined.border-none.x-xs-2.x-sm-4.x-md-12.x-lg-4.x-xl-3.p-relative.\|.subgrid:nth-of-type(4), div.undefined.border-none.x-xs-2.x-sm-4.x-md-12.x-lg-4.x-xl-3.p-relative.\|.subgrid:nth-of-type(6), div.undefined.border-none.x-xs-2.x-sm-4.x-md-12.x-lg-4.x-xl-3.p-relative.\|.subgrid:nth-of-type(8), .main-nav, .top-sidebary
+www.pcguide.com##.grid-container.inside-header
+www.publimetro.cl###main > .layout-section.container
+www.publimetro.cl##.aside1.wrap-bottom.layout-section.ie-flex-100-percent-sm.right-article-section.col-lg-xl-4.col-sm-md-12
+www.publimetro.cl##.footerFullWidth.wrap-bottom.layout-section.col-sm-xl-12
+www.publimetro.cl##.googlenews-btn
+www.publimetro.cl##.main1.layout-section.ie-flex-100-percent-sm.left-article-section.col-lg-xl-8.col-sm-md-12 > .header-block.ctbcAa.primary-font__PrimaryFontStyles-o56yd5-0
+www.publimetro.cl##.mt-3.flex-content-column.custom-card-wrapper > .header-block.ctbcAa.primary-font__PrimaryFontStyles-o56yd5-0
+www.publimetro.cl##.promo3.wrap-bottom.layout-section.col-sm-xl-12
+www.publimetro.cl##.results-list-container
+www.publimetro.cl##.tags-holder.ctbcAa.primary-font__PrimaryFontStyles-o56yd5-0
+www.publimetro.cl##footer > .layout-section.container
+www.reddit.com###left-sidebar
+www.reddit.com###right-sidebar-container
+www.reddit.com##.nd\:visible.top-0.left-0.right-0.fixed.z-\[4\].theme-beta
+www.semrush.com##.___SOverlay_576p9_gg_.___SAnimation_1skxt_gg_.__visible_1skxt_gg_
+www.semrush.com##.sc-eFegNN.gcqsis.___SWindow_576p9_gg_.___SAnimation_1skxt_gg_.__visible_1skxt_gg_
+www.semrush.com##.sc-fmBCVi.ffhQOw
+www.semrush.com##.sc-gKclnd.gfPynG.right-article-section
+www.semrush.com##.sc-gKclnd.hOSJeQ
+www.semrush.com##.sc-iuqRDJ.AJFVJ
+www.smh.com.au##._2iGMx._34z61
+www.smh.com.au##._34z61
+www.smh.com.au##._3NRDZ._34z61
+www.smh.com.au##.a-CQv
+www.smh.com.au##.noPrint.y77aF
+www.smh.com.au##div#app > header._21UZG.noPrint
+www.startpage.com##.css-1hjmuxl.home-hero-down-arrow
+www.startpage.com##div#home-below-the-fold-container.css-8oysku
+www.startpage.com##main#home.home > div.footer-container.css-13o7eu2
+www.startpage.com##main#home.home > div.footer-container.css-13o7eu2 > footer.css-ntpuhp.eu3pp1u0
+www.startpage.com##main#home.home > section.hero.css-jhi37k > div.search-home.css-2ycp6t > div.search-home-inner.css-41ogsm > div.privacy-extension-and-app-widget.css-7jhbe6
+www.techpowerup.com##.s-
+www.tipicochileno.cl###box_modal_legal
+www.tipicochileno.cl###overlay_video
+www.tipicochileno.cl##div#box_modal_legal.box_modal
+www.tipicochileno.cl##div#box_modal_newsletter.box_modal
+www.tipicochileno.cl##div#box_modal_share.box_modal.share
+www.tipicochileno.cl##div#btn_close_modal_share.btn_close_modal.share
+www.tipicochileno.cl##div#overlay_newsletter.overlay
+www.tipicochileno.cl##div#overlay_share.overlay
+www.tipicochileno.cl##div#overlay_video.overlay
+www.tipicochileno.cl##html.no-js > body.recetas-template-default.single.single-recetas.postid-13821.single-format-standard > noscript
+www.tomsguide.com###articleTag
+www.tomsguide.com###document-footer
+www.tomsguide.com###slice-container-moreAbout
+www.tomsguide.com###slice-container-trendingbar
+www.tomsguide.com###widgetArea17
+www.tomsguide.com###xenforo-comments-548823
+www.tomsguide.com##.author--separator.author__default-layout.author
+www.tomsguide.com##.hawk-comparison-filters-rows-rows
+www.tomsguide.com##.hawk-main-editorial-container
+www.tomsguide.com##.hawk-multi-model-review-container
+www.tomsguide.com##.infinite-trigger
+www.tomsguide.com##.primary-nav
+www.tomsguide.com##.related-articles
+www.tomsguide.com##.xenforo-comments-0.xenforo-comment-widget
+www.tomsguide.com##.xenforo-comments-see-all
+www.twitch.tv##.channel-panels-container
+www.twitch.tv##.channel-root__right-column--expanded.channel-root__right-column
+www.twitch.tv##.side-nav__scrollable_content.simplebar-content
+www.uparchvip.com###footer-widgets-container
+www.uparchvip.com##.site-info-layout-2.site-info
+www.uparchvip.com##.tve_empty_dropzone.tve_editor_main_content.tve-ult-bar-content
+www.uparchvip.com##.tve_red.tvu_set_06.thrv_wrapper.tve_element_hover.tve_no_icons.tve_no_drag.thrv_ult_bar
+www.upgrad.com##.ads
+www.upgrad.com##.dWFnev.UGFooterSticky__Container-sc-i6f21r-0
+www.upgrad.com##.xs\:hidden.xl\:block.xl\:visible.xs\:invisible.sm\:invisible.md\:col-span-3.xl\:col-span-3
+www.upgrad.com##.xs\:hidden.xl\:block.xl\:visible.xs\:invisible.sm\:invisible.md\:col-span-3.xl\:col-span-3 > div
+www.urlencoder.io##.share-container
+www.urlencoder.io##iframe
+www.usatoday.com##.gnt_em_vp__tavp.gnt_em
+www.varonis.com##.announcement-banner-section
+www.varonis.com##.blog-keep-reading-section.module-section-defaults
+www.varonis.com##.blog-listing-conversion-panel-section.module-section-defaults
+www.varonis.com##.footer-dark
+www.varonis.com##.site-navigation-light.blog-navigation.header-container
+www.varonis.coma##.module-section-defaults.blog-keep-reading-section
+www.windowscentral.com###articleTag
+www.windowscentral.com###document-footer
+www.windowscentral.com###widgetArea17
+www.windowscentral.com##.article-tag.box
+www.windowscentral.com##.author--separator
+www.windowscentral.com##.dfp-leaderboard-container
+www.windowscentral.com##.hawk-main-editorial-container
+www.windowscentral.com##.infinite-trigger
+www.windowscentral.com##.primary-nav
+www.windowscentral.com##.slice-container
+www.xvideos.com###video-right
+www.xvideos.com###video-sponsor-links
+www.xvideos.com##.btn-clear.head__btn--join-free.head__btn--connection.head__btn
+www.xvideos.com##.btn-clear.head__btn--join.head__btn
+www.xvideos.com##.btn-clear.head__btn--login.head__btn--connection.head__btn > span
+www.xvideos.com##.mobile-hide.exo-ad-ins-container.is-filled ad-support-desktop
+www.xvideos.com##.p-frame.p-frame-1.p-glass-effect
+www.xvideos.com##.premium-preview.activity-event
+www.xvideos.com##.premium-results-line
+www.xvideos.com##.quickies-lat.quickies-lat--all
+www.xvideos.com##.remove-ads
+www.xvideos.com##.thumb-block.thumb-ad.thumb-nat-ad.thumb-nat-exo-ad.tb_full_init
+www.xvideos.com##.width-full-body.head__menu-line
+www.xvideos.com##div#ad-footer.exo-ad-ins-container.is-filled.ad-support-desktop
+www.xvideos.com##div#page.video-page > div.remove-ads
+www.xvideos.com##div#video-right.mobile-hide.exo-ad-ins-container.is-filled.ad-support-desktop
+www.xvideos.com##div[class^="ntv"]
+www.xvideos.com##div[class^="thumb-ad"]
+www.y2mate.com##.extension-header
+www.zenarmor.com##.footer
+youtube.com###guide-content
+youtube.com###main > .ytd-merch-shelf-renderer.style-scope
+youtube.com###secondary
+youtube.com##+js(addEventListener-defuser.js, keydown)
+youtube.com##.ytd-in-feed-ad-layout-renderer.style-scope
