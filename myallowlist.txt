@@ -1,87 +1,75 @@
-#!#ALLOWLIST COMENTARIOS
-
-colesproductimages.azureedge.net	#requerido de coles app. CNAME{productimages.coles.com.au=>colesproductimages.azureedge.net}
-oauth2.googleapis.com			#requerido para GMAIL
-www.googleapis.com			#requerido para GMAIL en thunderbird, no necesario en K9
-cdn.lacuerda.net			#requerido pagina de acordes guitarra 
-wildcard.scene7.com.edgesuite.net	#requerido BigW imagenes CNAME{s7ap1.scene7.com=>wildcard.scene7.com.edgesuite.net}
-maps.googleapis.com			#requerido Maps,realestate(inside)
-d3orhvfyxudxxq.cloudfront.net		#requerido Kmart CNAME{images.ctfassets.net=>d3orhvfyxudxxq.cloudfront.net}
-d3nu7fmpe1x8pv.cloudfront.net		#requerido realestate imagenes CNAME{i2.au.reastatic.net=>d3nu7fmpe1x8pv.cloudfront.net}
-mapsmobilesdks-pa.googleapis.com	#requerido realestate mapas en seccion de busqueda
-play-fe.googleapis.com			#requerido playstore
-api.oviahealth.com			#requerido app de periodosM (listas:1Hosts_master_Xtra)
-bci-share.s3.amazonaws.com		#BCI PDFs
-
-##BORRAR DEL FILE mate and ddg
-companion.mobile.realestate.com.au	#requerido realestate (mate list)
-connectivitycheck.gstatic.com		#requerido celu xiaomi nicole (samsung ok) (mate list)
-lexa.realestate.com.au			#requerido realestate (mate list)
-services.realestate.com.au		#requerido realestate (mate list)
-www.realestate.com.au			#requerido realestate (mate list)
-redditstatic.com			#requerido reddit (en duckduckgo list)
-##
-
-ei-ph.rdtcdn.com			#requerido rtube
-ei.rdtcdn.com				#requerido rtube
-ev-ph.rdtcdn.com			#requerido rtube
-encrypted-tbn0.gstatic.com		#requerido imagenes de google
-
-1701336841.rsc.cdn77.org		#WOM_PDFs
-dduhxx0oznf63.cloudfront.net		#COLES_PDFs
-publish-p16597-e60686.adobeaemcloud.com		#BIGW_PDFs
-
-mozilla.cloudflare-dns.com		#requerido al usar filtrado https de firefox (lista:www.github.developerdan.com_hosts_lists_tracking-aggressive-extended.txt)
-myshopify.com				#requerido varios shops
-objects.githubusercontent.com		#requerido github
-login.live.com				#requerido login hotmail
-alicdn.com				#aliexpress
-
-#!#NO USAR easylist/easyprivacy de este link https://easylist-downloads.adblockplus.org/easyprivacy.txt
-
-ac.cnstrc.com
-addons.mozilla.org        #en futuro mantener bloqueado, pero usar en dnsoverhttps
-oauth.accounts.firefox.com        #en futuro mantener bloqueado, pero usar en dnsoverhttps
-cdn.accounts.firefox.com        #en futuro mantener bloqueado, pero usar en dnsoverhttps
-graphql.accounts.firefox.com        #en futuro mantener bloqueado, pero usar en dnsoverhttps
-apigee.net
+auth.bigw.com.au
+coles.com.au
+companion.mobile.realestate.com.au
+lexa.realestate.com.au
+services.realestate.com.au
+www.realestate.com.au
+cdn2.bci.cl
+cdn3.bci.cl
+publish-p16597-e60686.adobeaemcloud.com
 aibixby.com
 bixby-client.aibixby.com
 prd-use2-user.aibixby.com
-cdn2.bci.cl        #bci
-cdn3.bci.cl        #bci
-mozilla.cloudflare-dns.com        #quite del whitelist cloudflare-dns.com, entonces, debemos mantener siempre este dominio como ALLOWED
-#cloudflare-dns.com        #no esta funcionando bien mozilla.cloudflare-dns.com, asi que comende a usar este otro instead
-cnstrc.com        #Requerido kmart
-ebay.com        #no se que lista tiene ebay.com
-ir.ebaystatic.com
-login.microsoftonline.com
-spyware.neocities.org
-trafficmanager.net
+alicdn.com
+aliexpress.com
+www.aliexpress.com
 weather-server.allawnos.com
-auth.bigw.com.au
-coles.com.au
-syd-efz.ms-acdc.office.com
-ooc-g2.tm-4.office.com
-www.tm.ak.prd.aadg.trafficmanager.net
-check.ddos-guard.net
-api.thelott.com
-thelott.com
+bci-share.s3.amazonaws.com
+mozilla.cloudflare-dns.com
+cnstrc.com
+ac.cnstrc.com
 external-content.duckduckgo.com
-www.tm.ak.prd.aadg.akadns.net
-star-azurefd-prod.trafficmanager.net
+ebay.com
+ir.ebaystatic.com
+star-mini.c10r.facebook.com
+cdn.accounts.firefox.com
+graphql.accounts.firefox.com
+oauth.accounts.firefox.com
+objects.githubusercontent.com
+clients4.google.com
+maps.googleapis.com
+mapsmobilesdks-pa.googleapis.com
+oauth2.googleapis.com
+play-fe.googleapis.com
+www.googleapis.com
+connectivitycheck.gstatic.com
+encrypted-tbn0.gstatic.com
+login.live.com
+login.microsoftonline.com
+firefox.settings.services.mozilla.com
+myshopify.com
+ooc-g2.tm-4.office.com
+syd-efz.ms-acdc.office.com
+api.oviahealth.com
+i.pinimg.com
+s.pinimg.com
+api.pinterest.com
+www.pinterest.com
+ei.rdtcdn.com
+ei-ph.rdtcdn.com
+ev-ph.rdtcdn.com
+redditstatic.com
 api2.sec-tunnel.com
 startpage.com
-firefox.settings.services.mozilla.com
-firefox-settings-attachments.cdn.mozilla.net
-support.mozilla.org
-us-west1.prod.sumo.prod.webservices.mozgcp.net
-aliexpress.com
-api.pinterest.com
-auth.bigw.com.au
-clients4.google.com
+thelott.com
+api.thelott.com
+www.tm.ak.prd.aadg.akadns.net
+apigee.net
+colesproductimages.azureedge.net
+d3nu7fmpe1x8pv.cloudfront.net
+d3orhvfyxudxxq.cloudfront.net
+dduhxx0oznf63.cloudfront.net
 kmartau.mo.cloudinary.net
-mozilla.cloudflare-dns.com
+check.ddos-guard.net
+wildcard.scene7.com.edgesuite.net
+cdn.lacuerda.net
+us-west1.prod.sumo.prod.webservices.mozgcp.net
+firefox-settings-attachments.cdn.mozilla.net
+trafficmanager.net
+star-azurefd-prod.trafficmanager.net
+www.tm.ak.prd.aadg.trafficmanager.net
+1701336841.rsc.cdn77.org
+addons.mozilla.org
+support.mozilla.org
+spyware.neocities.org
 rutracker.org
-star-mini.c10r.facebook.com
-www.aliexpress.com
