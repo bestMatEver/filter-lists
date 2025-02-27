@@ -1,1 +1,1 @@
-(\\.|^)[a-z0-9]+\\.execute\-api\\.us\-[a-z]+\-[0-9]?\\.amazonaws\\.com$
+(\\.|^)[a-z0-9]+\\.execute\\-api\\.us\\-[a-z]+\\-[0-9]?\\.amazonaws\\.com$
