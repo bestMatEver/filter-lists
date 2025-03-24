@@ -12,11 +12,11 @@ acordes.lacuerda.net###mrShare
 acordes.lacuerda.net###mrVideo > iframe
 actie.hetvergetenkind.nl##body:style(overflow: auto!important)
 actie.thepollinators.org###kentaa_consent_modal
-actie.thepollinators.org##.modal-backdrop
 actie.thepollinators.org##+js(rc, modal-open, body, stay)
+actie.thepollinators.org##.modal-backdrop
 acties.lymph-co.com###kentaa_consent_modal
-acties.lymph-co.com##.modal-backdrop
 acties.lymph-co.com##+js(rc, modal-open, body, stay)
+acties.lymph-co.com##.modal-backdrop
 actievoorrodekruisijsselland.nl##body:style(overflow: auto!important)
 allegro.pl###opbox-gdpr-consents-modal
 allegro.pl##.mh36_0.mlkp_ag.mnyp_co.mx7m_1.msts_pt.mh36_8.mj7a_8.mvrt_8.mg9e_8.m389_6m.mpof_ki
@@ -34,29 +34,39 @@ amp.theguardian.com##.dcr-amp-t57guz
 amp.theguardian.com##.dcr-amp-uiq752
 amp.theguardian.com##amp-sticky-ad
 amsterdamcityswim.nl###kentaa_consent_modal
-amsterdamcityswim.nl##.modal-backdrop
 amsterdamcityswim.nl##+js(rc, modal-open, body, stay)
+amsterdamcityswim.nl##.modal-backdrop
 android.meta.stackexchange.com,android.stackexchange.com,api.stackexchange.com,apple.meta.stackexchange.com,apple.stackexchange.com,arqade.com,askubuntu.com,bicycles.meta.stackexchange.com,bicycles.stackexchange.com,blog.axway.com,blogoverflow.com,boardgames.meta.stackexchange.com,boardgames.stackexchange.com,chemistry.stackexchange.com,codegolf.meta.stackexchange.com,codegolf.stackexchange.com,codereview.meta.stackexchange.com,codereview.stackexchange.com,cooking.meta.stackexchange.com,cooking.stackexchange.com,cstheory.meta.stackexchange.com,cstheory.stackexchange.com,dba.meta.stackexchange.com,dba.stackexchange.com,diy.meta.stackexchange.com,diy.stackexchange.com,drupal.meta.stackexchange.com,drupal.stackexchange.com,electronics.meta.stackexchange.com,electronics.stackexchange.com,english.meta.stackexchange.com,english.stackexchange.com,fitness.meta.stackexchange.com,fitness.stackexchange.com,gamedev.meta.stackexchange.com,gamedev.stackexchange.com,gaming.meta.stackexchange.com,gaming.stackexchange.com,german.stackexchange.com,gis.meta.stackexchange.com,gis.stackexchange.com,graphicdesign.meta.stackexchange.com,graphicdesign.stackexchange.com,homebrew.meta.stackexchange.com,homebrew.stackexchange.com,judaism.meta.stackexchange.com,judaism.stackexchange.com,math.meta.stackexchange.com,math.stackexchange.com,mathematica.stackexchange.com,mathoverflow.net,maths.stackexchange.com,mechanics.meta.stackexchange.com,mechanics.stackexchange.com,meta.arqade.com,meta.askubuntu.com,meta.askubuntu.com,meta.nothingtoinstall.com,meta.photography.stackexchange.com,meta.photos.stackexchange.com,meta.seasonedadvice.com,meta.serverfault.com,meta.stackexchange.com,meta.stackoverflow.com,meta.statistics.stackexchange.com,meta.superuser.com,meta.thearqade.com,meta.webmaster.stackexchange.com,money.meta.stackexchange.com,money.stackexchange.com,music.meta.stackexchange.com,music.stackexchange.com,parenting.meta.stackexchange.com,parenting.stackexchange.com,photo.meta.stackexchange.com,photo.stackexchange.com,photography.stackexchange.com,physics.meta.stackexchange.com,physics.stackexchange.com,pm.meta.stackexchange.com,pm.stackexchange.com,quant.meta.stackexchange.com,quant.stackexchange.com,rpg.meta.stackexchange.com,rpg.stackexchange.com,scifi.meta.stackexchange.com,scifi.stackexchange.com,security.meta.stackexchange.com,security.stackexchange.com,serverfault.com,sharepoint.meta.stackexchange.com,sharepoint.stackexchange.com,skeptics.meta.stackexchange.com,skeptics.stackexchange.com,softwareengineering.meta.stackexchange.com,softwareengineering.stackexchange.com,softwarerecs.stackexchange.com,sqa.meta.stackexchange.com,sqa.stackexchange.com,stackapps.com,stackmod.blog,stackoverflow.blog,stackoverflow.co,stackoverflow.com,stackoverflow.email,stackoverflow.help,stackoverflow.jobs,stackoverflowbusiness.com,stackoverflowsolutions.com,stackoverflowteams.com,statistics.stackexchange.com,stats.meta.stackexchange.com,stats.stackexchange.com,superuser.com,tex-talk.net,tex.meta.stackexchange.com,tex.stackexchange.com,thesffblog.com,unix.meta.stackexchange.com,unix.stackexchange.com,ux.meta.stackexchange.com,ux.stackexchange.com,video.meta.stackexchange.com,video.stackexchange.com,webapps.meta.stackexchange.com,webapps.stackexchange.com,webmasters.meta.stackexchange.com,webmasters.stackexchange.com,wordpress.meta.stackexchange.com,wordpress.stackexchange.com,writing.meta.stackexchange.com,writing.stackexchange.com,www.stackoverflow.com###sidebar, .js-footer.site-footer, .ai-center.site-footer--extra, .show-votes, .site-footer--container, #left-sidebar, .d-flex.fw-wrap.ai-start.jc-end.gs8.gsy, #noscript-warning, .s-topbar.ps-fixed.t0.l0.js-top-bar, #notify-container, #announcement-banner, .bottom-notice, #post-form
 annual-report-triodos.com##.cookie-bar
-answers.microsoft.com###announcementSection
 answers.microsoft.com###Footer
 answers.microsoft.com###Header
+answers.microsoft.com###announcementSection
 answers.microsoft.com###threadRightColumnContainer
 answers.microsoft.com###threadSummaryBlankSpace
 answers.microsoft.com##.ask-question-orientation
 app.nlziet.nl###onetrust-accept-btn-handler
 appletoolbox.com###ez-cookie-dialog
 appletoolbox.com###ez-cookie-dialog-wrapper
-armemberplugin.com##.social-share-icons-list
 armemberplugin.com##+js(rc, cp-custom-viewport, html, stay)
 armemberplugin.com##+js(rc, cp-exceed-viewport, html, stay)
 armemberplugin.com##+js(rc, cp-overflow-hidden, html, stay)
+armemberplugin.com##.social-share-icons-list
 armemberplugin.com##body:style(overflow: auto!important)
 asml.com##.cookie-consent-message
 asml.com##.is-open.cookie-consent-message
 au.yahoo.com###commerce-module-articles
 au.yahoo.com###footer-wrapper
 au.yahoo.com##.topics-module
+bakeplaysmile.com##.cls-inserted.slick-inline-search-panel
+bakeplaysmile.com##.comment-respond
+bakeplaysmile.com##.dpsp-button-style-3.dpsp-show-on-mobile.dpsp-no-labels-mobile.dpsp-no-labels.dpsp-has-spacing.dpsp-size-small.dpsp-shape-rounded.dpsp-content-wrapper
+bakeplaysmile.com##.entry-comments
+bakeplaysmile.com##.feastsubscribebutton
+bakeplaysmile.com##.site-footer
+bakeplaysmile.com##.slick-film-strip
+bakeplaysmile.com##.widget-area.sidebar-primary.sidebar
+bakeplaysmile.com##.wprm-call-to-action-simple.wprm-call-to-action
+bakeplaysmile.com##.wprm-user-rating-summary
 belsimpel.nl##.CookieBannerstyle__StyledCookieBanner-sc-1kw94k2-0
 beterbed.nl##.overlay
 beterbed.nl##.popup
@@ -75,8 +85,8 @@ blog.postman.com##.nav-primary.navbar-light.navbar-expand-lg.navbar.navbar-v6
 blog.postman.com##.nav-secondary.navbar-light.navbar-expand-lg.sticky-top.navbar.navbar-v6
 blog.postman.com##.widget-callout-section
 blog.postman.com##.wpulike-heart.wpulike
-blog.tivo.com##.sgpb-popup-overlay
 blog.tivo.com##.sg-popup-content
+blog.tivo.com##.sgpb-popup-overlay
 blog.tivo.com##.sidebar
 bluespahaamstede.nl###newsletter
 bol.com###js-first-screen-accept-all-button
@@ -93,10 +103,35 @@ coles.com.au##.coles-targeting-HeaderHeaderBottomLocationWrapper.fnXNDG.sc-7a83d
 community.adobe.com##.recom-parent
 community.cloudflare.com##.interstitial-alert-modal
 community.cloudflare.com##.modal-backdrop
+comococinarocomer.com##.code-block-9.code-block
+comococinarocomer.com##.entry-footer
+comococinarocomer.com##.site-footer
+comococinarocomer.com##div#grow-wp-data
+comococinarocomer.com##div#popmake-50137.pum-container.popmake.theme-50129.pum-responsive.pum-responsive-medium.responsive.size-medium.active.custom-position
+comococinarocomer.com##div#popmake-50137.pum-container.popmake.theme-50129.pum-responsive.pum-responsive-medium.responsive.size-medium.active.custom-position > button.pum-close.popmake-close
+comococinarocomer.com##div#popmake-50137.pum-container.popmake.theme-50129.pum-responsive.pum-responsive-medium.responsive.size-medium.active.custom-position > div.pum-content.popmake-content
+comococinarocomer.com##div#popmake-50137.pum-container.popmake.theme-50129.pum-responsive.pum-responsive-medium.responsive.size-medium.active.custom-position > div.pum-content.popmake-content > div
+comococinarocomer.com##div#popmake-50137.pum-container.popmake.theme-50129.pum-responsive.pum-responsive-medium.responsive.size-medium.active.custom-position > div.pum-content.popmake-content > div > a[href^="https\:\/\/www\.booking\.com\/index\.es\.html"]
+comococinarocomer.com##div#popmake-50137.pum-container.popmake.theme-50129.pum-responsive.pum-responsive-medium.responsive.size-medium.active.custom-position > div.pum-content.popmake-content > div > a[href^="https\:\/\/www\.booking\.com\/index\.es\.html"] > h2
+comococinarocomer.com##div#popmake-50137.pum-container.popmake.theme-50129.pum-responsive.pum-responsive-medium.responsive.size-medium.active.custom-position > div.pum-content.popmake-content > div > a[href^="https\:\/\/www\.booking\.com\/index\.es\.html"] > p
+comococinarocomer.com##div#popmake-50137.pum-container.popmake.theme-50129.pum-responsive.pum-responsive-medium.responsive.size-medium.active.custom-position > div.pum-content.popmake-content > div > p
+comococinarocomer.com##div#popmake-50137.pum-container.popmake.theme-50129.pum-responsive.pum-responsive-medium.responsive.size-medium.active.custom-position > div.pum-content.popmake-content > div > p > a[href^="https\:\/\/www\.booking\.com\/index\.es\.html"]
+comococinarocomer.com##div#pum-50137.pum.pum-overlay.pum-theme-50129.pum-theme-lightbox.popmake-overlay.auto_open.click_open
+comococinarocomer.com##div#pum-50137.pum.pum-overlay.pum-theme-50129.pum-theme-lightbox.popmake-overlay.auto_open.click_open.pum-active
+comococinarocomer.com##div.amazon-products-container
+comococinarocomer.com##iframe#__gloria-embed-frame._gloria-embed._gloria-embed--hidden[src^="https\:\/\/app\.iamgloria\.com\/chat-plugin\/index\.html"]
 computable.nl##.ce-banner
 computable.nl##.footNB
 consent.google.*##.saveButtonContainer > form:nth-of-type(2) > .searchButton.button.basebutton
 consent.youtube.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .button.basebutton
+cookpad.com###header
+cookpad.com###recipe > div > .min-w-0 > .lg\:rounded-none.border-cookpad-gray-300.print\:border-none.lg\:border-b.lg\:mb-md.lg\:pb-md.lg\:shadow-none.lg\:pt-0.lg\:px-0.print\:hidden.mb-sm.p-rg.lg\:shadow.lg\:rounded-lg.bg-cookpad-white.space-y-rg.flex-col.flex
+cookpad.com##.min-w-0 > .relative > div:nth-of-type(2)
+cookpad.com##.mt-auto
+cookpad.com##.print\:gap-md.print\:grid-cols-\[min\(35\%\,300px\)_1fr\].print\:grid.lg\:mb-\[32px\].lg\:gap-md.lg\:grid-cols-\[min\(35\%\,300px\)_1fr\].lg\:grid
+cookpad.com##.print\:hidden.z-30.bottom-0.sticky
+cookpad.com##.sidebar-navigation
+cookpad.com##.z-20.bg-cookpad-gray-200.w-full.bottom-0.sticky.col-span-2.grid-cols-subgrid.print\:hidden.lg\:grid.hidden
 danskebank.dk##.cookie-consent-banner-modal
 darktrace.com###cookie-notice-ct
 debijenkorf.nl##.toast--show.toast
@@ -104,10 +139,10 @@ desk.zoho.com##.micsTop
 desk.zoho.eu##.micsTop
 desk.zoho.in##.micsTop
 die-raiffeisenbank.de###lightbox--cookie-consent
-die-raiffeisenbank.de##.open.darken-layer
 die-raiffeisenbank.de##+js(rc, cookie-consent-is-active, body, stay)
 die-raiffeisenbank.de##+js(rc, no-scroll, body, stay)
 die-raiffeisenbank.de##+js(rc, no-scroll, html, stay)
+die-raiffeisenbank.de##.open.darken-layer
 dille-kamille.nl##+js(rc, gtm-impression, a, stay)
 dille-kamille.nl##+js(rc, gtm-impression, button, stay)
 docs.bmc.com##.layout-footer
@@ -119,17 +154,6 @@ dpgmediagroup.com###pg-accept-btn
 dpgmediagroup.com###stack-accept-all
 dsw.nl##.chatbot-div
 dsw.nl##.feedback-button
-duckduckgo.com##.c_ZIRTZwvW2k4q8TtKU0
-duckduckgo.com##.c1GwqC__eRoEs0cLTIfL
-duckduckgo.com##.feedback-prompt
-duckduckgo.com##.footer
-duckduckgo.com##.homepage-cta-section_scrollCta__HuSCL
-duckduckgo.com##.js-feedback-btn-wrap
-duckduckgo.com##.mobile-homepage_atbBadge__wquuL
-duckduckgo.com##.O9Ipab51rBntYb0pwOQn
-duckduckgo.com##.showcase
-duckduckgo.com##.tagline_tagline__xryVo
-duckduckgo.com##[data-testid="serp-popover-promo"]
 duckduckgo.com##+js(set-cookie, 1, -1)
 duckduckgo.com##+js(set-cookie, ak, -1)
 duckduckgo.com##+js(set-cookie, ao, -1)
@@ -138,6 +162,19 @@ duckduckgo.com##+js(set-cookie, aq, -1)
 duckduckgo.com##+js(set-cookie, au, -1)
 duckduckgo.com##+js(set-cookie, ax, -1)
 duckduckgo.com##+js(set-cookie, n, -1)
+duckduckgo.com##.O9Ipab51rBntYb0pwOQn
+duckduckgo.com##.YL_aMfikzFszfcc4KLSh.js-react-sidebar.gdzyb9PgLazLyi4DKK0O
+duckduckgo.com##.c1GwqC__eRoEs0cLTIfL
+duckduckgo.com##.c_ZIRTZwvW2k4q8TtKU0
+duckduckgo.com##.feedback-prompt
+duckduckgo.com##.footer
+duckduckgo.com##.homepage-cta-section_scrollCta__HuSCL
+duckduckgo.com##.js-feedback-btn-wrap
+duckduckgo.com##.mobile-homepage_atbBadge__wquuL
+duckduckgo.com##.react-results--sidebar
+duckduckgo.com##.showcase
+duckduckgo.com##.tagline_tagline__xryVo
+duckduckgo.com##[data-testid="serp-popover-promo"]
 es.pornhub.com###under-player-playlists > div
 es.pornhub.com##.playlist-listingSmall.user-playlist.videos
 estunt.nl##+js(aopr, document.title)
@@ -161,13 +198,13 @@ google.com###L2AGLb > .sy4vM.QS5gu
 hackernoon.com##.ads
 hackernoon.com##.footer.gBpxDY.sc-69a5585e-0
 hackernoon.com##.gioxCH.sc-bf9213f4-1
-happysocks.com##.cookies-consent-banner
 happysocks.com##+js(rc, disabled, header, stay)
 happysocks.com##+js(rc, lock-scroll, body, stay)
+happysocks.com##.cookies-consent-banner
 howtogeek.com###secondary
 howtogeek.com###website-footer
-howtogeek.com##.ad-zone-content-character-count-repeatable.ad-zone
 howtogeek.com##.ad-zone-content-character-count-repeatable-1.ad-zone
+howtogeek.com##.ad-zone-content-character-count-repeatable.ad-zone
 howtogeek.com##.ad-zone-footer-footer.ad-zone
 howtogeek.com##.article-footer
 howtogeek.com##.article-header-complementary
@@ -188,8 +225,8 @@ imgur.com##.Gallery-Sidebar
 imgur.com##.Gallery-Sidebar-Wrapper
 imgur.com##.Sticky.Top
 inactievoorerasmusmc.nl###kentaa_consent_modal
-inactievoorerasmusmc.nl##.modal-backdrop
 inactievoorerasmusmc.nl##+js(rc, modal-open, body, stay)
+inactievoorerasmusmc.nl##.modal-backdrop
 inactievoormakeawish.be##body:style(overflow: auto!important)
 inactievooropkikker.nl###kookies_bar_0
 inactievooropkikker.nl##.modal-backdrop
@@ -202,14 +239,47 @@ instagram.com##._56bt._a6gi._56bs._52jh._54k8
 instagram.com##.bIiDR.aOOlW
 instagram.com##.cB_4K.y3zKF._4pI4F.L3NKy.sqdOP
 instagram.com##.ta1k9048.s1i5eluu.tw6a2znq.d1544ag0.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.ri5dt5u2.isp2s0ed.ak7q8e6j.kt9q3ron.btwxx1t3.owycx6da.bp9cbjyn.taijpn5t.pfnyh3mw.j83agx80.du4w35lb.l9j0dhe7
+justamumnz.com###respond
+justamumnz.com##.dpsp-button-style-5.dpsp-show-total-share-count-after.dpsp-show-total-share-count.dpsp-show-on-mobile.dpsp-has-spacing.dpsp-size-small.dpsp-shape-rounded.dpsp-content-wrapper
+justamumnz.com##.entry-comments
+justamumnz.com##.menu-primary.genesis-nav-menu.menu
+justamumnz.com##.site-footer
+justamumnz.com##.widget-area.announcement-widget
+justamumnz.com##.widget-area.sidebar-primary.sidebar
 kadasterdata.nl##body:style(overflow: auto!important)
 kbb.com##.overlay-subscription-email
 kea.dk##+js(cookie-remover, 0d2b9156bb9df317bfd2c64116af6a33)
+kenniesit.com###sgpb-popup-dialog-main-div
+kenniesit.com##.sgpb-popup-overlay.sgpb-popup-overlay-11317.sgpb-theme-1-overlay
 kentaa.nl###kentaa_consent_modal
-kentaa.nl##.modal-backdrop
 kentaa.nl##+js(rc, modal-open, body, stay)
+kentaa.nl##.modal-backdrop
+lacuerda.net###abajo
+lacuerda.net###mBot
+lacuerda.net###mRight
+lacuerda.net###mlMenu > div:nth-of-type(1)
+lacuerda.net##.a_bmark
+lacuerda.net##.mBody > div:nth-of-type(3) > div:nth-of-type(1)
+lacuerda.net##.mBody > div:nth-of-type(3) > div:nth-of-type(2)
+lacuerda.net##.mrPopList
+lacuerda.net##div.mlMenu:nth-of-type(2)
+lacuerda.net##div.mlMenu:nth-of-type(3)
+lacuerda.net##div.mlMenu:nth-of-type(4)
+lacuerda.net##div.mlMenu:nth-of-type(5)
+lacuerda.net##div.topSec
 learn.microsoft.com###cookie-consent-holder
 learn.microsoft.com###ms--additional-resources
+lecremedelacrumb.com###comments
+lecremedelacrumb.com###masthead
+lecremedelacrumb.com##.alt.before-header
+lecremedelacrumb.com##.post-author
+lecremedelacrumb.com##.post-related-section
+lecremedelacrumb.com##.press-section
+lecremedelacrumb.com##.recipe-footer
+lecremedelacrumb.com##.site-footer
+lecremedelacrumb.com##.widget-area
+lecremedelacrumb.com##.wprm-call-to-action-simple.wprm-call-to-action
+lecremedelacrumb.com##.wrap.flexbox.after-footer
 lesensduneviefondationdefrance.org##body:style(overflow: auto!important)
 lidl.nl##.n-navigation__overlay-area
 lifewire.com###onetrust-consent-sdk
@@ -226,11 +296,15 @@ linuxhandbook.com##.has-wide.has-full.md\:mb-28.sm\:mb-20.mb-16.lg\:content-lg.c
 linuxtldr.com##.comments-area
 linuxtldr.com##.inside-right-sidebar
 login.asr.nl##.asr-cookie-message
+lun.com##.btn_aviso
+lun.com##.btn_invi_aviso
+lun.com##.vjs-modal-dialog
+lun.com##.vjs-tech
 mail.google.com##.m_-1065864078292703074brand-logo-hack
 mail.google.com##.m_5506092503941464554center-on-narrow
 mail.google.com##.vh
-mail.google.com##[alt="banner"]
 mail.google.com##[alt="Illustration of 3 colourful pool floaties"]
+mail.google.com##[alt="banner"]
 mail.google.com##div.m_-1065864078292703074mj-column-per-50 > div.m_-1065864078292703074mj-column-per-50 > table > tbody > tr > td
 mail.google.com##table.m_5506092503941464554em_wrapper > tbody > tr > td
 mail.google.com##td > div.m_-1065864078292703074mj-column-per-50 > table > tbody > tr > td > table > tbody > tr > td
@@ -278,20 +352,20 @@ mijn.intwente.nl##.mijn-cookie-consent
 mijn.intwente.nl##mijn-feedback
 mijn.stadholland.nl##.mijn-cookie-consent
 mijn.stadholland.nl##mijn-feedback
-moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
-moneymonk.nl##.-sm:items-end.-sm:justify-start.items-center.justify-center.inset-4.fixed.flex
 moneymonk.nl##+js(rc, inset-0, div, stay)
+moneymonk.nl##.-sm:items-end.-sm:justify-start.items-center.justify-center.inset-4.fixed.flex
+moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 mrmarvis.com##.z-cookieBanner
 mvdwfoundation.nl###kentaa_consent_modal
-mvdwfoundation.nl##.modal-backdrop
 mvdwfoundation.nl##+js(rc, modal-open, body, stay)
+mvdwfoundation.nl##.modal-backdrop
 mycommunitydefib.co.uk###kentaa_consent_modal
-mycommunitydefib.co.uk##.modal-backdrop
 mycommunitydefib.co.uk##+js(rc, modal-open, body, stay)
+mycommunitydefib.co.uk##.modal-backdrop
 mykeyport.com##.loader
 nachtvandevluchteling.nl###kentaa_consent_modal
-nachtvandevluchteling.nl##.modal-backdrop
 nachtvandevluchteling.nl##+js(rc, modal-open, body, stay)
+nachtvandevluchteling.nl##.modal-backdrop
 neifredomar.com##.et_bloom_animated.et_bloom_visible.et_bloom_trigger_bottom.et_bloom_auto_popup.et_bloom_optin_1.et_bloom_resize.et_bloom_optin.et_bloom_popup
 nl.schipholtickets.com##.Overlay_overlay__3_p4L
 nos.nl###ccm_notification_wrapper
@@ -315,6 +389,10 @@ ohra.nl##kpcf-cookie-toestemming
 omroepzeeland.nl###consent-plugin
 omroepzeeland.nl##.promobox
 omroepzeeland.nl##.promobox-container
+onceuponachef.com##.bookbanner
+onceuponachef.com##aside#sidebar.sidebar.sidebarpost
+onceuponachef.com##footer#footer > div.ftcontainer > div.container.notop.nobot > section.ftsec
+onceuponachef.com##footer#footer > div.ftcontainer > div.container.notop.nobot > section.ftsec > div.socialicons.sociallinks.plainlinks
 onedrive.live.com##.od-QuotaBanner-upsell
 only.com##.overlay-backdrop
 onvz.nl###ost-btn-accept-all-cookies
@@ -334,10 +412,10 @@ ostechnix.com##.post-related.pcrlt-style-3
 ostechnix.com##div.penci-single-block:nth-of-type(3)
 outlook.live.com###\39 737ec70-a648-016b-3e3b-133445453916
 outlook.live.com###srOnTopMainDiv
-outlook.live.com##.d2eN9.xsObw.l_OBE
 outlook.live.com##.GssDD
 outlook.live.com##.LBktY > .GssDD > .z0duZ
 outlook.live.com##.Soq5F
+outlook.live.com##.d2eN9.xsObw.l_OBE
 ovh.com##+js(rc, manager-cookie-policy-banner-backdrop, div, stay)
 ovh.com##+js(rc, modal-backdrop, div, stay)
 pan.baidu.com##.u-popover__reference.wp-s-header-user__create-team-title
@@ -360,30 +438,54 @@ phoenixnap.com###was-this-helpful
 phoenixnap.com##.mega-menu-horizontal.max-mega-menu.mega-menu
 pim.app##+js(rc, cli-barmodal-open, body, stay)
 pim.app##body:style(overflow: auto!important)
+plein.nl##+js(rc, modal-open, body, stay)
 plein.nl##.plein-cookie-modal
 plein.nl##.plein-modal-backdrop
-plein.nl##+js(rc, modal-open, body, stay)
 plein.nl##body:style(overflow: auto!important)
 podimo.com##.cookie
 postnl.nl##.pci-cookie-button-inner .pci-button--primary
+recipetineats.com###genesis-sidebar-primary
+recipetineats.com###respond
+recipetineats.com##.author-box
+recipetineats.com##.breadcrumbs-container
+recipetineats.com##.entry-comments
+recipetineats.com##.featured-posts-container.related-posts
+recipetineats.com##.footer--wrapper
+recipetineats.com##.header-bar
+recipetineats.com##.nav-primary
+recipetineats.com##.site-header
 revolut.com###DndLiveRegion-0
 rieder-zillertal.at##+js(rc, dp--cookie-consent, body, stay)
 roparun.nl###kentaa_consent_modal
-roparun.nl##.modal-backdrop
 roparun.nl##+js(rc, modal-open, body, stay)
+roparun.nl##.modal-backdrop
 ryanstutorials.net##.margin-top.footer-background.container-fluid
 salespanel.io##.p-4.modal-body
 saturn.de###mms-consent-portal-container
 sbnl-natuuromdehoek.nl###kentaa_consent_modal
-sbnl-natuuromdehoek.nl##.modal-backdrop
 sbnl-natuuromdehoek.nl##+js(rc, modal-open, body, stay)
-scholieren.com##.klikurl
+sbnl-natuuromdehoek.nl##.modal-backdrop
 scholieren.com##.XBFUqF
+scholieren.com##.klikurl
 screeble.com##.td-post-featured-image
 search.brave.com###discussions
 search.brave.com###summarizer
+selfproclaimedfoodie.com##.block-area-after-post.block-area
+selfproclaimedfoodie.com##.block-area-before-footer.block-area
+selfproclaimedfoodie.com##.entry-comments
+selfproclaimedfoodie.com##.sidebar-primary
+selfproclaimedfoodie.com##.site-footer
+selfproclaimedfoodie.com##.site-footer__bottom
+selfproclaimedfoodie.com##.top-hat
+selfproclaimedfoodie.com##.wprm-call-to-action-simple.wprm-call-to-action
 siliconcanals.com##.ai-track
 siliconcanals.com##.brave_popup--popup.brave_popup
+simplyrecipes.com###article__primary-video-container--jw_1-0
+simplyrecipes.com###disqus-block_1-0
+simplyrecipes.com###footer_1-0
+simplyrecipes.com###prefooter_1-0
+simplyrecipes.com##.article-right-rail.loc
+simplyrecipes.com##.jw-reset.jw-wrapper
 spendenaktion.drk.de##body:style(overflow: auto!important)
 stackabuse.com##.aspect-h-9.aspect-w-16
 stackabuse.com##.border-gray-300.border.rounded.py-3.px-6.bg-white
@@ -404,11 +506,11 @@ stackoverflow.com##.js-consent-banner
 startpage.com###marketing-tag-container
 startpage.com##.layout-web__feedback-button-container--desktop
 sterkensportief.nl###kentaa_consent_modal
-sterkensportief.nl##.modal-backdrop
 sterkensportief.nl##+js(rc, modal-open, body, stay)
+sterkensportief.nl##.modal-backdrop
 sterktegenms.nl###kentaa_consent_modal
-sterktegenms.nl##.modal-backdrop
 sterktegenms.nl##+js(rc, modal-open, body, stay)
+sterktegenms.nl##.modal-backdrop
 support.microsoft.com###headerRegion
 support.microsoft.com###ocFooterWrapper
 support.microsoft.com##.articleSupportBridge.ocArticleFooterSection
@@ -417,6 +519,23 @@ support.microsoft.com##div.c-uhff-nav-group
 team.blue##+js(rc, html-with-one-modal, html, stay)
 tele2.nl##.show.cookie.fade.modal
 telegraaf.nl##.AdBlockPopUp__wrapper
+theendlessmeal.com###block_896af0b047e0978b7db4d67473e5ba7f
+theendlessmeal.com###h-more-from-the-endless-meal
+theendlessmeal.com##.author-box
+theendlessmeal.com##.cls-inserted.slick-inline-search-panel
+theendlessmeal.com##.cls-inserted.slick-on-page
+theendlessmeal.com##.default.archive-nav
+theendlessmeal.com##.dpsp-button-style-6.dpsp-show-total-share-count-before.dpsp-show-total-share-count.dpsp-show-on-mobile.dpsp-no-labels-mobile.dpsp-has-spacing.dpsp-size-medium.dpsp-shape-circle.dpsp-content-wrapper
+theendlessmeal.com##.footer-top
+theendlessmeal.com##.recipe-after.card-after
+theendlessmeal.com##.recipe-disclaimer.card-disclaimer > .wrap > p
+theendlessmeal.com##.site-footer
+theendlessmeal.com##.site-header
+theendlessmeal.com##.widget-area.sidebar-primary.sidebar
+theendlessmeal.com##.wp-block-columns-is-layout-flex.wp-container-core-columns-is-layout-1.is-layout-flex.wp-block-columns
+theendlessmeal.com##.wpd-form-wrap
+theendlessmeal.com##.wpd-thread-wrapper
+theendlessmeal.com##.wprm-block-text-normal.wprm-recipe-details-container-separate.wprm-recipe-details-container.wprm-recipe-custom-container.wprm-recipe-meta-container
 thepollinators.org###newsletter-modal
 theverge.com###privacy-consent
 theverge.com##.m-privacy-consent
@@ -427,6 +546,7 @@ tipicochileno.cl###box_modal_legal
 tipicochileno.cl###overlay_video
 transip.eu##+js(rc, consent-popup--no-scroll, body, stay)
 transip.eu##+js(rc, html-with-one-modal, html, stay)
+triodos-im.com##.cookie-bar
 triodos.be##.cookie-bar
 triodos.co.uk##.cookie-bar
 triodos.com##.cookie-bar
@@ -435,7 +555,6 @@ triodos.es##.cookie-bar
 triodos.fr##.cookie-bar
 triodos.nl##.cookie-bar
 triodosfoundation.nl##.cookie-bar
-triodos-im.com##.cookie-bar
 tweakers.net###pg-accept-btn
 tweakers.net###stack-accept-all
 ubuntushell.com###post-4809 > iframe
@@ -457,12 +576,14 @@ wetransfer.com##.button--enabled.welcome__button--accept.welcome__button.button
 wetransfer.com##.button--enabled.welcome__button--preferences.welcome__button.button
 whatsapp.com##+js(rc, hasCookieBanner, body, stay)
 whatsapp.com##body:style(overflow: auto!important)
+worldwidebirder.com###sgpb-popup-dialog-main-div
+worldwidebirder.com##.sgpb-popup-overlay.sgpb-popup-overlay-29225.sgpb-theme-3-overlay
 wp.pl###AdArea
 wp.pl##.fdy68g6
 wp.pl##.ld04qn9
-www.24horas.cl##.art-principal.wrap-art.auxi > .row > .lg-9.md-9.sm-12.xsm-12.xs-12.col > .art-content > .banner-full
 www.24horas.cl##.art-principal.wrap-art.auxi > .row > .lg-9.md-9.sm-12.xsm-12.xs-12.col > .art-content > .CUERPO > .prontus-card-container > .prontus-card-content > .box-horizontal.box-dest
 www.24horas.cl##.art-principal.wrap-art.auxi > .row > .lg-9.md-9.sm-12.xsm-12.xs-12.col > .art-content > .CUERPO > .prontus-card-container > .prontus-card-content > .box-horizontal.box-dest > .cont-txt
+www.24horas.cl##.art-principal.wrap-art.auxi > .row > .lg-9.md-9.sm-12.xsm-12.xs-12.col > .art-content > .banner-full
 www.24horas.cl##.enc-txt.enc-port
 www.24horas.cl##.footer-main
 www.24horas.cl##.footer-sec
@@ -495,8 +616,8 @@ www.baeldung.com##.header--menu
 www.baeldung.com##.topAdContainer.code-block-1.code-block
 www.bancoestado.cl###container-7130149da3 > .aem-Grid--default--12.aem-Grid--12.aem-Grid > .aem-GridColumn--default--12.aem-GridColumn.title
 www.bancoestado.cl###container-783c8ff221 > .aem-Grid--default--12.aem-Grid--12.aem-Grid > .aem-GridColumn--default--12.aem-GridColumn.title
-www.bancoestado.cl##.aem-GridColumn--default--12.aem-GridColumn.containercols
 www.bancoestado.cl##.aem-GridColumn--default--12.aem-GridColumn.container-numbercolumn
+www.bancoestado.cl##.aem-GridColumn--default--12.aem-GridColumn.containercols
 www.bancoestado.cl##.aem-GridColumn--default--12.aem-GridColumn.contract-content.orange-indicators.orange-arrow.panelcontainer.carousel > .view-mode.cmp-carousel
 www.bancoestado.cl##.aem-GridColumn--default--12.aem-GridColumn.text.textv2
 www.bancoestado.cl##.aem-GridColumn--default--12.aem-GridColumn.white-indicators.white-arrow.panelcontainer.carousel > .view-mode.cmp-carousel
@@ -535,8 +656,8 @@ www.bunnings.com.au##.component-section.gsQkUp.sc-91d9bdbf-0
 www.bunnings.com.au##.component-section.hAHpgU.sc-4a1dd218-0
 www.bunnings.com.au##.iEJIyM.sc-cec379cb-1
 www.bunnings.com.au##.vZNrz.sc-605db50f-1
-www.comparitech.com###ct066
 www.comparitech.com###ct-popup
+www.comparitech.com###ct066
 www.comparitech.com##.alignnone.wp-image-437392.size-full
 www.comparitech.com##.author-details
 www.comparitech.com##.author-reviewed-by-wrapper
@@ -600,12 +721,12 @@ www.forbes.com##.paywall_ribbon
 www.forbes.com##.seo.recirc-module
 www.freecodecamp.org##.footer-top
 www.freecodecamp.org##.learn-cta-row > p
-www.freecodecamp.org##.post.post-full > .post-full-author-header > .author-card
 www.freecodecamp.org##.post-full-content > .post-full-author-header > .author-card
+www.freecodecamp.org##.post.post-full > .post-full-author-header > .author-card
 www.freecodecamp.org##.site-footer
+www.geeksforgeeks.org##.article--recommended_wrapper.article--recommended
 www.geeksforgeeks.org##.article-meta
 www.geeksforgeeks.org##.article-meta-author-details
-www.geeksforgeeks.org##.article--recommended_wrapper.article--recommended
 www.geeksforgeeks.org##.discussion_panel
 www.geeksforgeeks.org##.footer-strip
 www.geeksforgeeks.org##.footer-wrapper
@@ -642,18 +763,18 @@ www.hostingadvice.com##.normal-item.review-item
 www.hostingadvice.com##.yarpp-template-yarpp-template-example.yarpp-related-website.yarpp-related.yarpp
 www.hostingadvice.com##footer
 www.instagram.com##div > .xnc8uc2.x11aubdm.xso031l.x1q0q8m5.x1bs97v6 > div
-www.itvpatagonia.com##.td_block_template_1.td-pb-border-top.tdi_105.tdm_block_inline_text.td_block_wrap.tdm_block > .tdm-descr
-www.itvpatagonia.com##.tdb-tags > li
-www.itvpatagonia.com##.tdc-element-style.td-pb-row.wpb_row.tdi_135.vc_row
-www.itvpatagonia.com##.tdc-element-style.td-pb-row.wpb_row.tdi_155.tdc_zone
-www.itvpatagonia.com##.tdc-element-style.td-pb-row.wpb_row.tdi_28.tdc_zone
-www.itvpatagonia.com##.tdc-element-style.td-pb-row.wpb_row.tdi_53.tdc_zone
 www.itvpatagonia.com##.td-fix-index.tdb-category
 www.itvpatagonia.com##.td-is-sticky.td-pb-span4.tdc-column.vc_column_container.wpb_column.tdi_111.vc_column
 www.itvpatagonia.com##.td-pb-row.wpb_row.tdi_119.vc_row
 www.itvpatagonia.com##.td-pb-span12.tdc-column.vc_column_container.wpb_column.tdi_137.vc_column
 www.itvpatagonia.com##.td-pb-span12.tdc-column.vc_column_container.wpb_column.tdi_149.vc_column
 www.itvpatagonia.com##.td-pb-span12.tdc-column.vc_column_container.wpb_column.tdi_70.vc_column
+www.itvpatagonia.com##.td_block_template_1.td-pb-border-top.tdi_105.tdm_block_inline_text.td_block_wrap.tdm_block > .tdm-descr
+www.itvpatagonia.com##.tdb-tags > li
+www.itvpatagonia.com##.tdc-element-style.td-pb-row.wpb_row.tdi_135.vc_row
+www.itvpatagonia.com##.tdc-element-style.td-pb-row.wpb_row.tdi_155.tdc_zone
+www.itvpatagonia.com##.tdc-element-style.td-pb-row.wpb_row.tdi_28.tdc_zone
+www.itvpatagonia.com##.tdc-element-style.td-pb-row.wpb_row.tdi_53.tdc_zone
 www.itvpatagonia.com##.wp-block-embed__wrapper
 www.lacuarta.com##.ajuste-1440-cards.most-read.mb1.clearfix, .bg-white.header.z2, .bottom-section > .ajuste-1440-cards.grid-block-cards.mb1.clearfix, .bottom-section > .ajuste-1440-cards.grid-block-cards.mb1.clearfix > .container > .px2.flex-wrap.flex.grid-container, .noreadme-audima > .list-reset, .noreadme-audima > h2, .pb0.pt2.sm-hide.xs-hide.clearfix, .pr2.aside-right > .ajuste-1440-cards.grid-block-cards.mb1.clearfix > .container > .px2.flex-wrap.flex.grid-container, .section-cronica.ajuste-1440-cards.more-of-section.mb1.clearfix, .section-espectaculos.ajuste-1440-cards.more-of-section.mb1.clearfix, .section-tendencias.ajuste-1440-cards.more-of-section.mb1.clearfix, .story-instagram.story-embeded, .story-instagram.story-embeded > div, .story-tiktok.story-embeded, footer, p:nth-of-type(10), p:nth-of-type(11), p:nth-of-type(12), p:nth-of-type(13), p:nth-of-type(7), p:nth-of-type(8), p:nth-of-type(9), .ajuste-1440-cards.grid-block-cards.mb1.clearfix, div.story-twitter.story-embeded iframe, .pr2.aside-right
 www.lahuertinadetoni.es##.aawp
@@ -752,8 +873,9 @@ www.windowscentral.com##.primary-nav
 www.windowscentral.com##.slice-container
 www.xvideos.com###video-right
 www.xvideos.com###video-sponsor-links
-www.xvideos.com##.btn-clear.head__btn--join.head__btn
+www.xvideos.com##.banner-game
 www.xvideos.com##.btn-clear.head__btn--join-free.head__btn--connection.head__btn
+www.xvideos.com##.btn-clear.head__btn--join.head__btn
 www.xvideos.com##.btn-clear.head__btn--login.head__btn--connection.head__btn > span
 www.xvideos.com##.mobile-hide.exo-ad-ins-container.is-filled ad-support-desktop
 www.xvideos.com##.p-frame.p-frame-1.p-glass-effect
@@ -773,12 +895,17 @@ www.zenarmor.com##.footer
 yeeuu.com##+js(rc, modal-open, body, stay)
 yeeuu.com##+js(rc, modal-open, html, stay)
 youcanbook.me##[data-testid="cookie-consent"]
+youtube.com###content-section
 youtube.com###guide-content
 youtube.com###main > .ytd-merch-shelf-renderer.style-scope
 youtube.com###secondary
+youtube.com##+js(addEventListener-defuser.js, keydown)
+youtube.com##.style-scope ytd-ad-slot-renderer
 youtube.com##.ytd-consent-bump-v2-lightbox.style-scope.eom-v1-dialog ytd-button-renderer.size-default.style-primary.ytd-consent-bump-v2-lightbox.style-scope:nth-of-type(2)
 youtube.com##.ytd-in-feed-ad-layout-renderer.style-scope
-youtube.com##+js(addEventListener-defuser.js, keydown)
+youtube.com##.ytd-thumbnail-overlay-time-status-renderer[aria-label="Shorts"]:upward(#dismissible)
+youtube.com##yt-icon.ytd-thumbnail-overlay-time-status-renderer.style-scope:not([hidden]):upward(6)
+youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
 zekur.nl##.app_cookie
 zekur.nl##.tmcookienotice
 zekur.nl##body:style(overflow: auto!important)
